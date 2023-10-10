@@ -1,0 +1,92 @@
+\contentsline {chapter}{INTRODUCTION GÉNÉRALE}{1}{}%
+\contentsline {section}{\numberline {0.1}Problématique}{1}{}%
+\contentsline {section}{\numberline {0.2}Hypothèse}{2}{}%
+\contentsline {section}{\numberline {0.3}Choix et Intérêt du sujet}{2}{}%
+\contentsline {subsection}{\numberline {0.3.1}Choix du sujet}{2}{}%
+\contentsline {subsection}{\numberline {0.3.2}Intérêt du sujet}{2}{}%
+\contentsline {subsubsection}{\numberline {0.3.2.1}Intérêt du personnel}{2}{}%
+\contentsline {subsubsection}{\numberline {0.3.2.2}Intérêt scientifique}{2}{}%
+\contentsline {section}{\numberline {0.4}Méthodes et techniques}{3}{}%
+\contentsline {subsection}{\numberline {0.4.1}Méthodes}{3}{}%
+\contentsline {subsection}{\numberline {0.4.2}Techniques}{3}{}%
+\contentsline {subsection}{\numberline {0.4.3}État de l'art}{4}{}%
+\contentsline {subsection}{\numberline {0.4.4}Délimitation du travail}{5}{}%
+\contentsline {subsection}{\numberline {0.4.5}Subdivision du travail}{5}{}%
+\contentsline {subsection}{\numberline {0.4.6}Outils logiciels et équipements utilisés}{5}{}%
+\contentsline {chapter}{\numberline {1}GÉNÉRALITÉS ET ÉTUDE PRÉALABLE}{6}{}%
+\contentsline {section}{\numberline {1.1}Introduction partielle}{6}{}%
+\contentsline {section}{\numberline {1.2}Les moyens de localisation actuels à grande échelle}{6}{}%
+\contentsline {subsection}{\numberline {1.2.1}Les systèmes de localisation par réseaux terrestres}{6}{}%
+\contentsline {subsubsection}{\numberline {1.2.1.1}Le système LORAN C}{6}{}%
+\contentsline {subsubsection}{\numberline {1.2.1.2}La localisation par réseau GSM}{8}{}%
+\contentsline {subsubsection}{\numberline {1.2.1.3}La géolocalisation par Wi-Fi}{8}{}%
+\contentsline {subsubsection}{\numberline {1.2.1.4}Limites des systèmes de localisation par réseaux terrestres }{8}{}%
+\contentsline {subsection}{\numberline {1.2.2} Les systèmes de localisation satellitaires}{9}{}%
+\contentsline {subsubsection}{\numberline {1.2.2.1}La localisation par GPS}{9}{}%
+\contentsline {subsubsection}{\numberline {1.2.2.2}GLONASS }{10}{}%
+\contentsline {subsubsection}{\numberline {1.2.2.3}Galileo}{10}{}%
+\contentsline {section}{\numberline {1.3}Localisation d’un terminal par GPS}{11}{}%
+\contentsline {subsection}{\numberline {1.3.1}La trilatération}{12}{}%
+\contentsline {section}{\numberline {1.4}ÉTUDE PRÉALABLE}{13}{}%
+\contentsline {subsection}{\numberline {1.4.1}Étude de l’existant}{14}{}%
+\contentsline {subsubsection}{\numberline {1.4.1.1}ICE GeoAlert}{14}{}%
+\contentsline {subsubsection}{\numberline {1.4.1.2}The Sorority}{16}{}%
+\contentsline {subsection}{\numberline {1.4.2}Critique de l’existant}{17}{}%
+\contentsline {subsection}{\numberline {1.4.3}Piste de solution}{17}{}%
+\contentsline {section}{\numberline {1.5}Conclusion partielle}{18}{}%
+\contentsline {chapter}{\numberline {2}CONCEPTION ET MODÉLISATION }{19}{}%
+\contentsline {section}{\numberline {2.1}Introduction Partielle}{19}{}%
+\contentsline {subsection}{\numberline {2.1.1}Présentation du langage UML}{19}{}%
+\contentsline {subsection}{\numberline {2.1.2}Présentation de la méthode DSDM}{19}{}%
+\contentsline {subsection}{\numberline {2.1.3}Utilisation de l'orienté objet avec le DSDM}{20}{}%
+\contentsline {subsection}{\numberline {2.1.4}Évaluation des risques}{21}{}%
+\contentsline {section}{\numberline {2.2}Besoins}{21}{}%
+\contentsline {subsection}{\numberline {2.2.1}Besoins fonctionnels}{21}{}%
+\contentsline {subsection}{\numberline {2.2.2}Besoins non fonctionnels}{22}{}%
+\contentsline {section}{\numberline {2.3}Identification des acteurs}{22}{}%
+\contentsline {section}{\numberline {2.4}Diagrammes}{22}{}%
+\contentsline {subsection}{\numberline {2.4.1}Diagramme de cas d’utilisation}{22}{}%
+\contentsline {subsubsection}{\numberline {2.4.1.1}Classification des cas d’utilisation}{23}{}%
+\contentsline {subsubsection}{\numberline {2.4.1.2}Descriptions textuelles des cas d’utilisation}{23}{}%
+\contentsline {subsection}{\numberline {2.4.2}Diagrammes de séquence}{25}{}%
+\contentsline {subsubsection}{\numberline {2.4.2.1}S'authentifier}{25}{}%
+\contentsline {subsubsection}{\numberline {2.4.2.2}Consulter contacts}{26}{}%
+\contentsline {subsubsection}{\numberline {2.4.2.3}Ajouter contact}{27}{}%
+\contentsline {subsubsection}{\numberline {2.4.2.4}Supprimer contact}{28}{}%
+\contentsline {subsubsection}{\numberline {2.4.2.5}Modifier contact}{29}{}%
+\contentsline {subsubsection}{\numberline {2.4.2.6}Activer tracking}{30}{}%
+\contentsline {subsubsection}{\numberline {2.4.2.7}Désactiver tracking}{31}{}%
+\contentsline {subsubsection}{\numberline {2.4.2.8}Envoyer alerte}{32}{}%
+\contentsline {subsubsection}{\numberline {2.4.2.9}Consulter alertes}{33}{}%
+\contentsline {subsubsection}{\numberline {2.4.2.10}Voir détails alertes}{34}{}%
+\contentsline {subsection}{\numberline {2.4.3}Diagramme d’activité}{34}{}%
+\contentsline {subsubsection}{\numberline {2.4.3.1}Activité utilisateur}{35}{}%
+\contentsline {subsubsection}{\numberline {2.4.3.2}Activité administrateur}{36}{}%
+\contentsline {subsubsection}{\numberline {2.4.3.3}Modèle de domaine}{37}{}%
+\contentsline {section}{\numberline {2.5}Modélisation de la base de donnes NoSQL orientée document}{37}{}%
+\contentsline {subsection}{\numberline {2.5.1}Règles de mappage pour une base de donnée orientée document}{38}{}%
+\contentsline {subsubsection}{\numberline {2.5.1.1}Relation par référence}{38}{}%
+\contentsline {subsubsection}{\numberline {2.5.1.2}Documents imbriqués}{38}{}%
+\contentsline {subsection}{\numberline {2.5.2}Modèle non relationnel}{38}{}%
+\contentsline {section}{\numberline {2.6}Conclusion partielle}{39}{}%
+\contentsline {chapter}{\numberline {3}PROCESSUS ET IMPLÉMENTATION}{40}{}%
+\contentsline {section}{\numberline {3.1}Introduction}{40}{}%
+\contentsline {subsection}{\numberline {3.1.1}Présentation de l'architecture physique}{40}{}%
+\contentsline {section}{\numberline {3.2}Technologies utilisées}{41}{}%
+\contentsline {subsection}{\numberline {3.2.1}Kotlin}{41}{}%
+\contentsline {subsection}{\numberline {3.2.2}TensorFlow lite}{41}{}%
+\contentsline {subsection}{\numberline {3.2.3}Mediapipe}{41}{}%
+\contentsline {subsection}{\numberline {3.2.4}Yamnet}{42}{}%
+\contentsline {subsection}{\numberline {3.2.5}Firebase}{42}{}%
+\contentsline {subsection}{\numberline {3.2.6}Angular}{42}{}%
+\contentsline {subsection}{\numberline {3.2.7}Android Studio}{42}{}%
+\contentsline {section}{\numberline {3.3}Diagramme de déploiement}{43}{}%
+\contentsline {section}{\numberline {3.4}Expérience utilisateur et fonctionnement}{43}{}%
+\contentsline {subsection}{\numberline {3.4.1}Expérience utilisateur}{43}{}%
+\contentsline {subsection}{\numberline {3.4.2}Fonctionnement}{44}{}%
+\contentsline {section}{\numberline {3.5}Captures d’écrans}{50}{}%
+\contentsline {subsection}{\numberline {3.5.1}Client mobile pour utilisateur}{50}{}%
+\contentsline {section}{\numberline {3.6}Difficultés rencontrées}{60}{}%
+\contentsline {section}{\numberline {3.7} Conclusion partielle}{61}{}%
+\contentsline {chapter}{CONCLUSION GÉNÉRALE}{62}{}%
+\contentsfinish 

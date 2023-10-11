@@ -1,4 +1,5 @@
 \documentclass[12pt]{report}
+\setlength{\parskip}{1pt}
 \usepackage{graphicx}
 \usepackage{fancyhdr}
 \usepackage{times}
@@ -10,19 +11,12 @@
 \usepackage{subfiles}
 \usepackage{titlesec}
 \usepackage{titletoc}
-\usepackage{indentfirst}
 \usepackage{setspace}
 \usepackage{float}
 \usepackage{dirtytalk}
 \usepackage{tabularx}
 \usepackage[export]{adjustbox}
-\usepackage[
-backend=biber,
-style=numeric-comp,
-sorting=ynt
-]{biblatex}
-\addbibresource{ref.bib}
-\setstretch{1.25}
+\usepackage{soul}
 
 \title{CONCEPTION D'UN SYSTÈME D’APPEL AU SECOURS : CAS D'ENLÈVEMENT DANS LA VILLE DE LUBUMBASHI \LaTeX}
 \author{KALUME NSENGA YVES}
@@ -30,14 +24,6 @@ sorting=ynt
 \setcounter{tocdepth}{3}
 \setcounter{secnumdepth}{3}
 
-%\pagestyle{fancy}
-%\fancyhf{}
-%\fancyhead[RE]{}
-%\fancyhead[LO]{}
-%\fancyfoot[RO,LE]{}
-%\fancypagestyle{plain}{% copies "fancy" over "plain"
-%	\fancyhead[R]{\thepage}% you can add edits that won't affect "fancy" but only "plain"
-%}
 \renewcommand{\headrulewidth}{0mm}
 \renewcommand{\headruleskip}{0mm}
 
@@ -64,11 +50,10 @@ sorting=ynt
 \renewcommand{\contentsname}{TABLE DES MATIÈRES}
 \renewcommand{\listfigurename}{LISTE DES FIGURES}
 \renewcommand{\listtablename}{LISTE DES TABLEAUX}
-%\renewcommand\thesection{\Roman{chapter}.\arabic{section}}
-%\renewcommand\thesubsection{\Roman{chapter}.\arabic{subsection}}
-%\renewcommand\thesubsubsection{\Roman{chapter}.\arabic{subsubsection}}
 
 \begin{document}
+	
+	\setstretch{1.25}
 	
 	\include{./page-de-garde}
 	
@@ -92,8 +77,11 @@ sorting=ynt
 	
 	\pagenumbering{Roman}
 	
+	\sloppy
+	
 	\include{./chapitres/epigraphe}
 	\include{./chapitres/dedicace}
+	
 	\include{./chapitres/remerciement}
 	\listoffigures
 	\listoftables
@@ -107,6 +95,5 @@ sorting=ynt
 	\include{./chapitres/chap2}
 	\include{./chapitres/chap3}
 	\include{./chapitres/conclusion}
-	\printbibliography
 	\include{./chapitres/bibliographie}
 \end{document}

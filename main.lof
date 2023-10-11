@@ -1,11 +1,11 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {1.1}{\ignorespaces Carte d’une station de base LORAN\relax }}{10}{}%
 \contentsline {figure}{\numberline {1.2}{\ignorespaces Principe du GPS dans un espace 1-D\relax }}{17}{}%
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Principe du GPS dans un espace 2-D\relax }}{19}{}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Principe du GPS dans un espace 2-D\relax }}{18}{}%
 \contentsline {figure}{\numberline {1.4}{\ignorespaces Caputre de l’application ICE GeoAlert\relax }}{20}{}%
 \contentsline {figure}{\numberline {1.5}{\ignorespaces Caputre de l’application The Sorority\relax }}{22}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Aperçu général du processus DSDM\blx@tocontentsinit {0}\cite {the_dsdm_consortium_dsdm}\relax }}{27}{}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Aperçu général du processus DSDM\cite {the_dsdm_consortium_dsdm}\relax }}{27}{}%
 \contentsline {figure}{\numberline {2.2}{\ignorespaces Diagramme de cas d’utilisation\relax }}{31}{}%
 \contentsline {figure}{\numberline {2.3}{\ignorespaces Diagramme de séquence S’authentifier\relax }}{39}{}%
 \contentsline {figure}{\numberline {2.4}{\ignorespaces Diagramme de séquence Consulter contacts\relax }}{40}{}%

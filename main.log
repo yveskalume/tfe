@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.8.22)  11 OCT 2023 23:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.8.22)  12 OCT 2023 01:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -151,9 +151,6 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 Package: titletoc 2021/07/05 v2.14 TOC entries
 \ttl@leftsep=\dimen162
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
-Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
-)
 (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
@@ -257,318 +254,65 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@loff=\dimen182
 \@vwid@roff=\dimen183
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+(/usr/share/texlive/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks26
+\SOUL@lasttoken=\toks27
+\SOUL@cmds=\toks28
+\SOUL@buffer=\toks29
+\SOUL@token=\toks30
+\SOUL@spaceskip=\skip77
+\SOUL@ttwidth=\dimen184
+\SOUL@uldp=\dimen185
+\SOUL@ulht=\dimen186
 )
-
-(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count273
-)
-(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
-Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count274
-
-(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
-File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-))
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip16
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-\c@tabx@nest=\count275
-\c@listtotal=\count276
-\c@listcount=\count277
-\c@liststart=\count278
-\c@liststop=\count279
-\c@citecount=\count280
-\c@citetotal=\count281
-\c@multicitecount=\count282
-\c@multicitetotal=\count283
-\c@instcount=\count284
-\c@maxnames=\count285
-\c@minnames=\count286
-\c@maxitems=\count287
-\c@minitems=\count288
-\c@citecounter=\count289
-\c@maxcitecounter=\count290
-\c@savedcitecounter=\count291
-\c@uniquelist=\count292
-\c@uniquename=\count293
-\c@refsection=\count294
-\c@refsegment=\count295
-\c@maxextratitle=\count296
-\c@maxextratitleyear=\count297
-\c@maxextraname=\count298
-\c@maxextradate=\count299
-\c@maxextraalpha=\count300
-\c@abbrvpenalty=\count301
-\c@highnamepenalty=\count302
-\c@lownamepenalty=\count303
-\c@maxparens=\count304
-\c@parenlevel=\count305
-\blx@tempcnta=\count306
-\blx@tempcntb=\count307
-\blx@tempcntc=\count308
-\c@blx@maxsection=\count309
-\c@blx@maxsegment@0=\count310
-\blx@notetype=\count311
-\blx@parenlevel@text=\count312
-\blx@parenlevel@foot=\count313
-\c@blx@sectionciteorder@0=\count314
-\blx@entrysetcounter=\count315
-\blx@biblioinstance=\count316
-\labelnumberwidth=\skip77
-\labelalphawidth=\skip78
-\biblabelsep=\skip79
-\bibitemsep=\skip80
-\bibnamesep=\skip81
-\bibinitsep=\skip82
-\bibparsep=\skip83
-\bibhang=\skip84
-\blx@bcfin=\read2
-\blx@bcfout=\write3
-\blx@langwohyphens=\language3
-\c@mincomprange=\count317
-\c@maxcomprange=\count318
-\c@mincompwidth=\count319
-Package biblatex Info: Trying to load biblatex default data model...
-Package biblatex Info: ... file 'blx-dm.def' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
-File: blx-dm.def 2022/02/02 v3.17 biblatex localization (PK/MW)
-)
-Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'numeric-comp.dbx' not found.
-Package biblatex Info: Trying to load biblatex custom data model...
-Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count320
-\c@savedafterword=\count321
-\c@annotator=\count322
-\c@savedannotator=\count323
-\c@author=\count324
-\c@savedauthor=\count325
-\c@bookauthor=\count326
-\c@savedbookauthor=\count327
-\c@commentator=\count328
-\c@savedcommentator=\count329
-\c@editor=\count330
-\c@savededitor=\count331
-\c@editora=\count332
-\c@savededitora=\count333
-\c@editorb=\count334
-\c@savededitorb=\count335
-\c@editorc=\count336
-\c@savededitorc=\count337
-\c@foreword=\count338
-\c@savedforeword=\count339
-\c@holder=\count340
-\c@savedholder=\count341
-\c@introduction=\count342
-\c@savedintroduction=\count343
-\c@namea=\count344
-\c@savednamea=\count345
-\c@nameb=\count346
-\c@savednameb=\count347
-\c@namec=\count348
-\c@savednamec=\count349
-\c@translator=\count350
-\c@savedtranslator=\count351
-\c@shortauthor=\count352
-\c@savedshortauthor=\count353
-\c@shorteditor=\count354
-\c@savedshorteditor=\count355
-\c@labelname=\count356
-\c@savedlabelname=\count357
-\c@institution=\count358
-\c@savedinstitution=\count359
-\c@lista=\count360
-\c@savedlista=\count361
-\c@listb=\count362
-\c@savedlistb=\count363
-\c@listc=\count364
-\c@savedlistc=\count365
-\c@listd=\count366
-\c@savedlistd=\count367
-\c@liste=\count368
-\c@savedliste=\count369
-\c@listf=\count370
-\c@savedlistf=\count371
-\c@location=\count372
-\c@savedlocation=\count373
-\c@organization=\count374
-\c@savedorganization=\count375
-\c@origlocation=\count376
-\c@savedoriglocation=\count377
-\c@origpublisher=\count378
-\c@savedorigpublisher=\count379
-\c@publisher=\count380
-\c@savedpublisher=\count381
-\c@language=\count382
-\c@savedlanguage=\count383
-\c@origlanguage=\count384
-\c@savedoriglanguage=\count385
-\c@pageref=\count386
-\c@savedpageref=\count387
-\shorthandwidth=\skip85
-\shortjournalwidth=\skip86
-\shortserieswidth=\skip87
-\shorttitlewidth=\skip88
-\shortauthorwidth=\skip89
-\shorteditorwidth=\skip90
-\locallabelnumberwidth=\skip91
-\locallabelalphawidth=\skip92
-\localshorthandwidth=\skip93
-\localshortjournalwidth=\skip94
-\localshortserieswidth=\skip95
-\localshorttitlewidth=\skip96
-\localshortauthorwidth=\skip97
-\localshorteditorwidth=\skip98
-Package biblatex Info: Trying to load compatibility code...
-Package biblatex Info: ... file 'blx-compat.def' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
-File: blx-compat.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
-)
-Package biblatex Info: Trying to load generic definitions...
-Package biblatex Info: ... file 'biblatex.def' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
-File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
-\c@textcitecount=\count388
-\c@textcitetotal=\count389
-\c@textcitemaxnames=\count390
-\c@biburlbigbreakpenalty=\count391
-\c@biburlbreakpenalty=\count392
-\c@biburlnumpenalty=\count393
-\c@biburlucpenalty=\count394
-\c@biburllcpenalty=\count395
-\biburlbigskip=\muskip17
-\biburlnumskip=\muskip18
-\biburlucskip=\muskip19
-\biburllcskip=\muskip20
-\c@smartand=\count396
-)
-Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
-Package biblatex Info: ... file 'numeric-comp.bbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
-File: numeric-comp.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
-Package biblatex Info: Trying to load bibliography style 'numeric'...
-Package biblatex Info: ... file 'numeric.bbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
-File: numeric.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
-Package biblatex Info: Trying to load bibliography style 'standard'...
-Package biblatex Info: ... file 'standard.bbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count397
-\c@bbx:relatedtotal=\count398
-)))
-Package biblatex Info: Trying to load citation style 'numeric-comp'...
-Package biblatex Info: ... file 'numeric-comp.cbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
-File: numeric-comp.cbx 2022/02/02 v3.17 biblatex citation style (PK/MW)
-\c@cbx@tempcnta=\count399
-\c@cbx@tempcntb=\count400
-\c@cbx@tempcntc=\count401
-\c@cbx@tempcntd=\count402
-Package biblatex Info: Redefining '\cite'.
-Package biblatex Info: Redefining '\parencite'.
-Package biblatex Info: Redefining '\footcite'.
-Package biblatex Info: Redefining '\footcitetext'.
-Package biblatex Info: Redefining '\smartcite'.
-Package biblatex Info: Redefining '\supercite'.
-Package biblatex Info: Redefining '\textcite'.
-Package biblatex Info: Redefining '\textcites'.
-Package biblatex Info: Redefining '\cites'.
-Package biblatex Info: Redefining '\parencites'.
-Package biblatex Info: Redefining '\smartcites'.
-)
-Package biblatex Info: Trying to load configuration file...
-Package biblatex Info: ... file 'biblatex.cfg' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
-File: biblatex.cfg 
-)
-Package biblatex Info: Input encoding 'utf8' detected.
-Package biblatex Info: Document encoding is UTF8 ....
-
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-01-21 L3 programming layer (loader) 
-
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count403
-\l__pdf_internal_box=\box58
-))
-Package biblatex Info: ... and expl3
-(biblatex)             2022-01-21 L3 programming layer (loader) 
-(biblatex)             is new enough (at least 2020/04/06),
-(biblatex)             setting 'casechanger=expl3'.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2022-01-12 L3 Experimental document command parser
-)
-Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
-))
-\@quotelevel=\count404
-\@quotereset=\count405
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 7
-1.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
+4.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-) (./main.aux
-(./page-de-garde.aux) (./chapitres/epigraphe.aux) (./chapitres/dedicace.aux)
-(./chapitres/remerciement.aux) (./chapitres/acronyme.aux)
-(./chapitres/avant-propos.aux) (./chapitres/introduction.aux)
-(./chapitres/chap1.aux) (./chapitres/chap2.aux) (./chapitres/chap3.aux)
-(./chapitres/conclusion.aux) (./chapitres/bibliographie.aux))
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count273
+\l__pdf_internal_box=\box58
+)
+(./main.aux (./page-de-garde.aux) (./chapitres/epigraphe.aux)
+(./chapitres/dedicace.aux) (./chapitres/remerciement.aux)
+(./chapitres/acronyme.aux) (./chapitres/avant-propos.aux)
+(./chapitres/introduction.aux) (./chapitres/chap1.aux) (./chapitres/chap2.aux)
+(./chapitres/chap3.aux) (./chapitres/conclusion.aux)
+(./chapitres/bibliographie.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count406
-\scratchdimen=\dimen184
+\scratchcounter=\count274
+\scratchdimen=\dimen187
 \scratchbox=\box59
-\nofMPsegments=\count407
-\nofMParguments=\count408
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count409
-\MPscratchDim=\dimen185
-\MPnumerator=\count410
-\makeMPintoPDFobject=\count411
-\everyMPtoPDFconversion=\toks27
+\nofMPsegments=\count275
+\nofMParguments=\count276
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count277
+\MPscratchDim=\dimen188
+\MPnumerator=\count278
+\makeMPintoPDFobject=\count279
+\everyMPtoPDFconversion=\toks32
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -616,22 +360,6 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
-)
-Package biblatex Info: Input encoding 'utf8' detected.
-Package biblatex Info: Automatic encoding selection.
-(biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `main.bcf'.
-
-Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' not found.
-
-No file main.bbl.
-Package biblatex Info: Reference section=0 on input line 71.
-Package biblatex Info: Reference segment=0 on input line 71.
 \openout2 = `./page-de-garde.aux'.
 
 (./page-de-garde.tex
@@ -665,38 +393,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--70
 [1])
 
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 87.
+less on input line 72.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 89.
+less on input line 74.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 90.
+less on input line 75.
 
 \openout2 = `./chapitres/epigraphe.aux'.
 
 (./chapitres/epigraphe.tex)
 
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 95.
+less on input line 82.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 95.
+less on input line 82.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 95.
+less on input line 82.
 
-LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 9
-5.
+LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 8
+2.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/b/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 95.
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 82.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -717,15 +445,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
  (./chapitres/dedicace.tex)
 
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 96.
+less on input line 83.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 96.
+less on input line 83.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 96.
+less on input line 83.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -744,23 +472,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `./chapitres/remerciement.aux'.
 
  (./chapitres/remerciement.tex
-Overfull \hbox (15.32672pt too wide) in paragraph at lines 3--4
-[]\OT1/ptm/m/n/14.4 Au terme de notre p[]eriple acad[]emique []a l'[]Ecole Sup[
-]erieure d'Informatique
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
@@ -775,16 +492,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 15.
+less on input line 16.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 15.
+less on input line 16.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 15.
+less on input line 16.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -800,12 +522,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
  []
 
@@ -819,27 +541,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [4] (./main.lof
-Overfull \hbox (33.81384pt too wide) in paragraph at lines 8--8
- [][] []\OT1/ptm/m/n/14.4 Aper[]u g[]en[]eral du pro-ces-sus DSDM[[]] []  
- []
-
-
-Overfull \hbox (3.7938pt too wide) in paragraph at lines 28--28
+Underfull \hbox (badness 3271) in paragraph at lines 28--28
  [][] []\OT1/ptm/m/n/14.4 Communication des diff[]erentes com-posantes lors de 
-l'envoi 
+
  []
 
 
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 30.
+less on input line 29.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 30.
+less on input line 29.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 30.
+less on input line 29.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -854,8 +571,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ])
-\tf@lof=\write4
-\openout4 = `main.lof'.
+\tf@lof=\write3
+\openout3 = `main.lof'.
 
 
 
@@ -867,21 +584,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [6] (./main.lot)
-\tf@lot=\write5
-\openout5 = `main.lot'.
+\tf@lot=\write4
+\openout4 = `main.lot'.
 
 
 
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 100.
+less on input line 88.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 100.
+less on input line 88.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 100.
+less on input line 88.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -899,15 +616,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
  (./chapitres/acronyme.tex)
 
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 100.
+less on input line 88.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 100.
+less on input line 88.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 100.
+less on input line 88.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -923,15 +640,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ] (./main.toc
 
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 27.
+less on input line 26.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 27.
+less on input line 26.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 27.
+less on input line 26.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -964,8 +681,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [11])
-\tf@toc=\write6
-\openout6 = `main.toc'.
+\tf@toc=\write5
+\openout5 = `main.toc'.
 
 
 
@@ -980,17 +697,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `./chapitres/avant-propos.aux'.
 
  (./chapitres/avant-propos.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
@@ -1000,16 +712,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 13.
+less on input line 15.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 13.
+less on input line 15.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 13.
+less on input line 15.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1035,12 +752,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `./chapitres/introduction.aux'.
 
  (./chapitres/introduction.tex
-Overfull \hbox (18.13512pt too wide) in paragraph at lines 6--7
-\OT1/ptm/m/n/14.4 tem-po-raine. Les d[]efis s[]ecuritaires sont nom-breux et co
-m-plexes, des probl[]emes
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
@@ -1098,9 +809,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [2]
-Overfull \hbox (33.54245pt too wide) in paragraph at lines 49--50
-[]\OT1/ptm/m/n/14.4 Nous avons choisi ce su-jet dans le but de sat-is-faire aux
- ex-i-gences acad[]emiques
+Underfull \hbox (badness 1028) in paragraph at lines 49--50
+\OT1/ptm/m/n/14.4 Nous avons choisi ce su-jet dans le but de sat-is-faire aux e
+x-i-gences
  []
 
 
@@ -1112,33 +823,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [3]
-Overfull \hbox (16.82321pt too wide) in paragraph at lines 61--62
-[][]\OT1/ptm/m/n/14.4 Etude busi-ness (ou anal-yse fonc-tion-nelle) : Cette []e
-tape sert []a la d[]efinition
- []
-
-
-Overfull \hbox (27.12106pt too wide) in paragraph at lines 68--69
-[]\OT1/ptm/m/n/14.4 Pour pou-voir com-pren-dre le fonc-tion-nement du syst[]eme
- que nous souhaitons
- []
-
-
-Overfull \hbox (19.4589pt too wide) in paragraph at lines 73--74
-\OT1/ptm/m/n/14.4 con-nais-sances sur les con-cepts fon-da-men-taux de la s[]ec
-urit[]e, la pr[]evention
- []
-
-
-Overfull \hbox (9.95576pt too wide) in paragraph at lines 77--78
-[]\OT1/ptm/m/n/14.4 Nous opterons pour la tech-nique d'interview afin de com-pr
-en-dre pleine-
- []
-
-
-Overfull \hbox (7.33473pt too wide) in paragraph at lines 77--78
-\OT1/ptm/m/n/14.4 con-cevoir un syst[]eme d'alerte ef-fi-cace qui r[]epondra au
-x pr[]eoccupations
+Underfull \hbox (badness 2126) in paragraph at lines 68--69
+\OT1/ptm/m/n/14.4 Pour pou-voir com-pren-dre le fonc-tion-nement du syst[]eme q
+ue nous
  []
 
 
@@ -1155,18 +842,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--82
  []
 
 
-Overfull \hbox (12.823pt too wide) in paragraph at lines 83--84
-\OT1/ptm/m/n/14.4 par Ka-longa Mwamba Jonathan, en vue de l'obtention d'un grad
-e d'ing[]enieur
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+[]\OT1/ptm/m/n/14.4 Premi[]erement, nous avons con-sult[]e le tra-vail in-ti-tu
+l[]e
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 83--84
+\OT1/ptm/m/n/14.4 Taxi" d[]efendu []a l'[]Ecole Sup[]erieure d'Informatique Sal
+ama, du-rant
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 83--84
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
  []
 
@@ -1179,42 +867,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [5]
-
-LaTeX Warning: Citation 'voice_controlled' on page 6 undefined on input line 87
-.
-
-
-Overfull \hbox (6.78792pt too wide) in paragraph at lines 87--88
-[]\OT1/ptm/m/n/14.4 Enfin, une recherche in-ti-tul[]ee \Voice-Controlled Tool f
-or Any-time Safety
+Underfull \hbox (badness 4634) in paragraph at lines 85--86
+[]\OT1/ptm/m/n/14.4 Le deuxi[]eme tra-vail est \Ap-pli-ca-tion de la GSM dans l
+a
  []
 
 
-Overfull \hbox (7.23518pt too wide) in paragraph at lines 87--88
-\OT1/ptm/m/n/14.4 of Women" [[]] publi[]ee par Agrawal Agrima, Mau-rya Ankita
- []
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
-
-Overfull \hbox (4.07983pt too wide) in paragraph at lines 87--88
-\OT1/ptm/m/n/14.4 et Patil Am-ruta. Ce tra-vail vise []a aider les femmes qui s
-e sen-tent vuln[]erables
- []
-
-
-Overfull \hbox (2.51161pt too wide) in paragraph at lines 87--88
-\OT1/ptm/m/n/14.4 sur le lieu du tra-vail en rai-son de l'environnement et de l
-'absence de moyens
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
- []
-
-
-Overfull \hbox (7.03142pt too wide) in paragraph at lines 92--93
-[]\OT1/ptm/m/n/14.4 Dans le souci et la qu[]ete d'un bon r[]esultat, la re-stri
-c-tion spatio-temporelle
  []
 
 
@@ -1240,46 +905,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
  (./chapitres/chap1.tex
 Chapter 1.
 
-LaTeX Warning: Citation 'polaris' on page 8 undefined on input line 4.
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
-
-LaTeX Warning: Citation 'michael_brian_schiffer_electric_2005' on page 8 undefi
-ned on input line 4.
-
-
-LaTeX Warning: Citation 'frederic_chapin_lane_venice_1973' on page 8 undefined 
-on input line 4.
-
-
-LaTeX Warning: Citation 'p_daly_navstar_nodate' on page 8 undefined on input li
-ne 4.
-
-
-Overfull \hbox (139.69836pt too wide) in paragraph at lines 4--5
-\OT1/ptm/m/n/14.4 jusqu'[]a nos jours) et a[]eronautiques depuis les ann[]ees 1
-920 [[]].
  []
-
-
-Overfull \hbox (46.44537pt too wide) in paragraph at lines 4--5
-\OT1/ptm/m/n/14.4 Colomb lors de sa d[]ecouverte des Am[]eriques [[]].
- []
-
-
-LaTeX Warning: Citation 'frederic_evennou_techniques_2007' on page 8 undefined 
-on input line 9.
 
 
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 11.
+less on input line 16.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 11.
+less on input line 16.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 11.
+less on input line 16.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1295,35 +935,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 13--14
-
- []
-
-
-LaTeX Warning: Citation 'frederic_evennou_techniques_2007' on page 9 undefined 
-on input line 15.
-
-
-Overfull \hbox (1.9785pt too wide) in paragraph at lines 15--16
-\OT1/ptm/m/n/14.4 on-des provenant de deux sta-tions ter-restres diff[]erentes.
- Le lieu g[]eom[]etrique
- []
-
-
-Overfull \hbox (98.50017pt too wide) in paragraph at lines 15--16
-\OT1/ptm/m/n/14.4 com-parer les in-stants d'arriv[]ee des diff[]erents sig-naux
- [[]]. 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
  []
 
 <./images//carteloran.png, id=86, 513.92pt x 337.26pt>
 File: ./images//carteloran.png Graphic file (type png)
 <use ./images//carteloran.png>
-Package pdftex.def Info: ./images//carteloran.png  used on input line 19.
+Package pdftex.def Info: ./images//carteloran.png  used on input line 21.
 (pdftex.def)             Requested size: 426.79135pt x 280.08525pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1334,23 +953,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [9]
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
-LaTeX Warning: Citation 'frederic_evennou_techniques_2007' on page 10 undefined
- on input line 23.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
-
- []
-
-
-LaTeX Warning: Citation 'frederic_evennou_techniques_2007' on page 10 undefined
- on input line 25.
-
-
-Overfull \hbox (1.4012pt too wide) in paragraph at lines 25--26
-\OT1/ptm/m/n/14.4 telles que celle il-lustr[]ee []a la Fig-ure 1.1, repr[]esent
-ent les diff[]erents d[]ecalages
  []
 
 
@@ -1362,20 +966,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [10 <./images//carteloran.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
- []
-
-
-Overfull \hbox (12.21461pt too wide) in paragraph at lines 35--36
-\OT1/ptm/m/n/14.4 g[]eolocalisation la plus sim-ple et la moins cou-teuse. Lors
-que l'utilisateur
- []
-
-
-Overfull \hbox (31.58473pt too wide) in paragraph at lines 41--43
-\OT1/ptm/m/n/14.4 r[]epertoriant de nom-breuses bornes Wi-Fi ainsi que leurs po
--si-tions g[]eographiques
  []
 
 
@@ -1387,34 +979,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [11]
-
-LaTeX Warning: Citation 'frederic_evennou_techniques_2007' on page 12 undefined
- on input line 46.
-
-
-Overfull \hbox (8.52983pt too wide) in paragraph at lines 46--47
-\OT1/ptm/m/n/14.4 tout, ces syst[]emes sont tou-jours op[]erationnels, pour des
- ap-pli-ca-tions pr[]ecises
- []
-
-
-Overfull \hbox (181.74527pt too wide) in paragraph at lines 46--47
-\OT1/ptm/m/n/14.4 comme l'a[]eronautique, ou en compl[]ement des syst[]emes sat
-el-li-taires [[]]. 
- []
-
-
-LaTeX Warning: Citation 'w_guier_and_g_weiffenbach_genesis_1997' on page 12 und
-efined on input line 49.
-
-
-Overfull \hbox (1.73273pt too wide) in paragraph at lines 49--50
-[]\OT1/ptm/m/n/14.4 L'[]emergence d'un syst[]eme mon-dial de lo-cal-i-sa-tion s
-'est man-i-fest[]ee avec
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
 
  []
 
@@ -1427,21 +992,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [12]
-
-LaTeX Warning: Citation 'frederic_evennou_techniques_2007' on page 13 undefined
- on input line 56.
-
-
-Overfull \hbox (77.82227pt too wide) in paragraph at lines 56--57
-\OT1/ptm/m/n/14.4 depuis n'importe quel point de la sur-face ter-restre [[]]. 
- []
-
-
-LaTeX Warning: Citation 'bernhard_hofmann_wellenhof_gnss' on page 13 undefined 
-on input line 59.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
  []
 
@@ -1454,31 +1005,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [13]
-Overfull \hbox (24.05273pt too wide) in paragraph at lines 61--62
-\OT1/ptm/m/n/14.4 syst[]eme fonc-tionne en mode r[]eduit avec seule-ment sept s
-atel-lites op[]erationnels.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
 
  []
 
 
-LaTeX Warning: Citation 'frederic_evennou_techniques_2007' on page 14 undefined
- on input line 63.
-
-
-Overfull \hbox (38.48161pt too wide) in paragraph at lines 63--64
-\OT1/ptm/m/n/14.4 lites sur les vingt qua-tre sont op[]erationnels [[]]. 
- []
-
-
-LaTeX Warning: Citation 'bernhard_hofmann_wellenhof_gnss' on page 14 undefined 
-on input line 66.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
  []
 
@@ -1491,18 +1023,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [14]
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
-LaTeX Warning: Citation 'bernhard_hofmann_wellenhof_gnss' on page 15 undefined 
-on input line 68.
-
-
-Overfull \hbox (2.59781pt too wide) in paragraph at lines 71--72
-\OT1/ptm/m/n/14.4 tions en con-tinu aux r[]ecepteurs GPS. Dans la vie quo-ti-di
--enne, les r[]ecepteurs
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
  []
 
@@ -1515,28 +1041,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
-
- []
-
-
-Overfull \hbox (6.67262pt too wide) in paragraph at lines 82--83
-\OT1/ptm/m/n/14.4 fr[]equences diff[]erentes. Ces sig-naux sont ca-pa-bles de t
-ra-verser des mat[]eriaux
- []
-
-
-Overfull \hbox (2.19347pt too wide) in paragraph at lines 82--83
-\OT1/ptm/m/n/14.4 satel-lite []emet un code unique, ce qui per-met aux r[]ecept
-eurs GPS d'identifier
- []
-
-
-Overfull \hbox (3.92117pt too wide) in paragraph at lines 94--95
-\OT1/ptm/m/n/14.4 re[]oivent et utilisent les in-for-ma-tions []emanant des sat
-el-lites via un r[]ecepteur
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1549,11 +1053,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//trilateration1d.png, id=113, 513.92pt x 107.40125pt>
 File: ./images//trilateration1d.png Graphic file (type png)
 <use ./images//trilateration1d.png>
-Package pdftex.def Info: ./images//trilateration1d.png  used on input line 102.
+Package pdftex.def Info: ./images//trilateration1d.png  used on input line 104.
 
 (pdftex.def)             Requested size: 426.79135pt x 89.1938pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
 
  []
 
@@ -1569,7 +1073,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//gps2d.png, id=118, 489.83pt x 513.92pt>
 File: ./images//gps2d.png Graphic file (type png)
 <use ./images//gps2d.png>
-Package pdftex.def Info: ./images//gps2d.png  used on input line 112.
+Package pdftex.def Info: ./images//gps2d.png  used on input line 114.
 (pdftex.def)             Requested size: 323.77461pt x 340.39587pt.
 
 
@@ -1580,7 +1084,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[18]
+[18 <./images//gps2d.png>]
+<./images//icegeoalert.jpg, id=123, 513.92pt x 456.70625pt>
+File: ./images//icegeoalert.jpg Graphic file (type jpg)
+<use ./images//icegeoalert.jpg>
+Package pdftex.def Info: ./images//icegeoalert.jpg  used on input line 127.
+(pdftex.def)             Requested size: 426.79135pt x 379.28212pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1589,16 +1099,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[19 <./images//gps2d.png>]
-<./images//icegeoalert.jpg, id=126, 513.92pt x 456.70625pt>
-File: ./images//icegeoalert.jpg Graphic file (type jpg)
-<use ./images//icegeoalert.jpg>
-Package pdftex.def Info: ./images//icegeoalert.jpg  used on input line 125.
-(pdftex.def)             Requested size: 426.79135pt x 379.28212pt.
-
-Overfull \hbox (12.02927pt too wide) in paragraph at lines 129--130
+[19]
+Underfull \hbox (badness 3623) in paragraph at lines 131--132
 \OT1/ptm/m/n/14.4 leurs familles. Pour en-voyer un mes-sage d'alerte con-tenant
- sa g[]eolocalisation
+ sa
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 136--137
+[]\OT1/ptm/m/n/14.4 La pos-si-bilit[]e d'envoyer rapi-de-ment sa g[]eolocalisat
+ion aux
  []
 
 
@@ -1610,16 +1120,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [20 <./images//icegeoalert.jpg>]
-Overfull \hbox (8.90584pt too wide) in paragraph at lines 134--135
-[]\OT1/ptm/m/n/14.4 La pos-si-bilit[]e d'envoyer rapi-de-ment sa g[]eolocalisat
-ion aux proches
- []
-
 <./images//sorority.jpg, id=130, 235.88126pt x 499.8675pt>
 File: ./images//sorority.jpg Graphic file (type jpg)
 <use ./images//sorority.jpg>
-Package pdftex.def Info: ./images//sorority.jpg  used on input line 151.
+Package pdftex.def Info: ./images//sorority.jpg  used on input line 153.
 (pdftex.def)             Requested size: 235.88068pt x 499.86627pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1638,23 +1144,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [22 <./images//sorority.jpg>]
-Overfull \hbox (11.78488pt too wide) in paragraph at lines 157--158
-\OT1/ptm/m/n/14.4 son smart-phone pour in-ter-peller di-recte-ment les per-son-
-nes au-tour, d[]eclencher
- []
-
-
-Overfull \hbox (16.3776pt too wide) in paragraph at lines 157--158
-\OT1/ptm/m/n/14.4 une alarme sonore pour at-tirer l'attention et dis-suader l'a
-gresseur et []egalement
- []
-
-
-Overfull \hbox (11.38182pt too wide) in paragraph at lines 173--174
-\OT1/ptm/m/n/14.4 pour-rait r[]eduire la port[]ee de l'application si le nom-br
-e d'utilisateurs
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1664,15 +1153,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [23]
-Overfull \hbox (23.88051pt too wide) in paragraph at lines 187--188
-[]\OT1/ptm/m/n/14.4 La con-cep-tion d'un syst[]eme d'appel au sec-ours ef-fi-ca
-ce en cas d'enl[]evement
- []
-
-
-Overfull \hbox (15.49866pt too wide) in paragraph at lines 192--193
-\OT1/ptm/m/n/14.4 soient re[]ues rapi-de-ment, il serait b[]en[]efique d'envisa
-ger l'envoi d'alertes
+Underfull \hbox (badness 4060) in paragraph at lines 189--190
+\OT1/ptm/m/n/14.4 La con-cep-tion d'un syst[]eme d'appel au sec-ours ef-fi-cace
+ en cas
  []
 
 
@@ -1684,11 +1167,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [24])
-Overfull \hbox (4.39676pt too wide) in paragraph at lines 196--106
-\OT1/ptm/m/n/14.4 avons []egalement pr[]esent[]e quelques diff[]erents syst[]em
-es de lo-cal-i-sa-tion satel-
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1703,48 +1181,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
  (./chapitres/chap2.tex
 Chapter 2.
 
-LaTeX Warning: Citation 'xavier_blanc_uml2' on page 26 undefined on input line 
-8.
-
-
-LaTeX Warning: Citation 'jim_arlow_uml' on page 26 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'jim_arlow_uml' on page 26 undefined on input line 10.
-
-
-Overfull \hbox (45.23544pt too wide) in paragraph at lines 8--11
-\OT1/ptm/m/n/14.4 breux as-pects du d[]eveloppement des logi-ciels, comme les e
-x-i-gences, l'architecture,
- []
-
-
-Overfull \hbox (62.16962pt too wide) in paragraph at lines 8--11
-\OT1/ptm/m/n/14.4 ciels ori-ent[]es ob-jet, son ap-pli-ca-tion est beau-coup pl
-us large que cela [[]].
- []
-
-
-LaTeX Warning: Citation 'jason_bennett_agile' on page 26 undefined on input lin
-e 14.
-
-
-Overfull \hbox (25.93994pt too wide) in paragraph at lines 13--15
-[]\OT1/ptm/m/n/14.4 La m[]ethode DSDM, en-core ap-pel[]ee M[]ethode de d[]evelo
-ppement de syst[]emes
+Underfull \hbox (badness 1194) in paragraph at lines 15--17
+\OT1/ptm/m/n/14.4 La m[]ethode DSDM, en-core ap-pel[]ee M[]ethode de d[]evelopp
+ement de
  []
 
 
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 15.
+less on input line 17.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 15.
+less on input line 17.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 15.
+less on input line 17.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1763,25 +1215,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//dsdm.png, id=150, 513.92pt x 350.30875pt>
 File: ./images//dsdm.png Graphic file (type png)
 <use ./images//dsdm.png>
-Package pdftex.def Info: ./images//dsdm.png  used on input line 17.
+Package pdftex.def Info: ./images//dsdm.png  used on input line 19.
 (pdftex.def)             Requested size: 426.79135pt x 290.92189pt.
-
-
-LaTeX Warning: Citation 'the_dsdm_consortium_dsdm' on page 27 undefined on inpu
-t line 18.
-
-
-LaTeX Warning: Citation 'the_dsdm_consortium_dsdm' on page 27 undefined on inpu
-t line 18.
-
-
-LaTeX Warning: Citation 'the_dsdm_consortium_dsdm' on page 27 undefined on inpu
-t line 23.
-
-
-Overfull \hbox (7.55057pt too wide) in paragraph at lines 23--24
-\OT1/ptm/m/n/14.4 spond bien au do-maine d'activit[]e de DSDM [[]]. 
- []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1792,24 +1227,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [27 <./images//dsdm.png>]
-
-LaTeX Warning: Citation 'the_dsdm_consortium_dsdm' on page 28 undefined on inpu
-t line 42.
-
-
-Overfull \hbox (91.44432pt too wide) in paragraph at lines 42--43
-\OT1/ptm/m/n/14.4 ajout[]ees au be-soin m[]eme apr[]es que la classe a []et[]e 
-d[]eploy[]ee [[]]. 
- []
-
-
-LaTeX Warning: Citation 'mark_richards_fundamentals' on page 28 undefined on in
-put line 46.
-
-
-Overfull \hbox (8.29889pt too wide) in paragraph at lines 46--47
-[]\OT1/ptm/m/n/14.4 Chaque fonc-tion-nalit[]e d'un logi-ciel est as-soci[]ee []
-a un risque, qu'il s'agisse
+Underfull \hbox (badness 4819) in paragraph at lines 44--45
+\OT1/ptm/m/n/14.4 du code req-uis; les con-cepts d'orientation ob-jet en-cour-a
+-gent le
  []
 
 
@@ -1821,15 +1241,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [28]
-Overfull \hbox (50.84978pt too wide) in paragraph at lines 54--55
+Underfull \hbox (badness 3375) in paragraph at lines 56--57
 []\OT1/ptm/m/n/14.4 L'administrateur doit s'authentifier avant d'acc[]eder []a 
-l'espace d'administration 
+l'espace
  []
 
 
-Overfull \hbox (22.25087pt too wide) in paragraph at lines 61--62
+Underfull \hbox (badness 1968) in paragraph at lines 63--64
 []\OT1/ptm/m/n/14.4 L'administrateur peut re-trans-met-tre les alertes aux con-
-tacts de l'utilisateur
+tacts de
  []
 
 
@@ -1841,16 +1261,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [29]
-Overfull \hbox (17.91815pt too wide) in paragraph at lines 75--76
-[]\OT1/ptm/m/n/14.4 Service de mes-sagerie : un syst[]eme logi-ciel ex-terne qu
-i per-met d'envoyer
- []
-
 <./images//usecase.png, id=161, 828.09375pt x 424.58624pt>
 File: ./images//usecase.png Graphic file (type png)
 <use ./images//usecase.png>
-Package pdftex.def Info: ./images//usecase.png  used on input line 83.
+Package pdftex.def Info: ./images//usecase.png  used on input line 85.
 (pdftex.def)             Requested size: 426.79135pt x 218.82956pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1860,11 +1276,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [30]
-Overfull \hbox (13.02298pt too wide) in paragraph at lines 114--115
-[]\OT1/ptm/m/n/14.4 Objectif : per-me-t-tre []a l'utilisateur de fournir son id
-en-tit[]e au syst[]eme 
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1874,9 +1285,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [31 <./images//usecase.png (PNG copy)>]
-Overfull \hbox (13.15091pt too wide) in paragraph at lines 140--141
-[]\OT1/ptm/m/n/14.4 L'utilisateur quitte l'application avant la fin de l'authen
-tification 
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+[]\OT1/ptm/m/n/14.4 L'utilisateur quitte l'application avant la fin de
  []
 
 
@@ -1936,7 +1346,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//s_authentifier.png, id=188, 442.65375pt x 576.1525pt>
 File: ./images//s_authentifier.png Graphic file (type png)
 <use ./images//s_authentifier.png>
-Package pdftex.def Info: ./images//s_authentifier.png  used on input line 366.
+Package pdftex.def Info: ./images//s_authentifier.png  used on input line 368.
 (pdftex.def)             Requested size: 426.79135pt x 555.53531pt.
 
 
@@ -1952,7 +1362,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: ./images//consulter_contacts.png Graphic file (type png)
 <use ./images//consulter_contacts.png>
 Package pdftex.def Info: ./images//consulter_contacts.png  used on input line 3
-72.
+74.
 (pdftex.def)             Requested size: 309.15424pt x 284.06053pt.
 
 
@@ -1967,7 +1377,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//ajouter_contact.png, id=197, 515.9275pt x 502.87875pt>
 File: ./images//ajouter_contact.png Graphic file (type png)
 <use ./images//ajouter_contact.png>
-Package pdftex.def Info: ./images//ajouter_contact.png  used on input line 378.
+Package pdftex.def Info: ./images//ajouter_contact.png  used on input line 380.
 
 (pdftex.def)             Requested size: 426.79135pt x 416.00806pt.
 
@@ -1984,7 +1394,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: ./images//supprimer_contact.png Graphic file (type png)
 <use ./images//supprimer_contact.png>
 Package pdftex.def Info: ./images//supprimer_contact.png  used on input line 38
-4.
+6.
 (pdftex.def)             Requested size: 368.37534pt x 446.66765pt.
 
 
@@ -1999,7 +1409,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//modifier_contact.png, id=205, 482.80376pt x 576.1525pt>
 File: ./images//modifier_contact.png Graphic file (type png)
 <use ./images//modifier_contact.png>
-Package pdftex.def Info: ./images//modifier_contact.png  used on input line 390
+Package pdftex.def Info: ./images//modifier_contact.png  used on input line 392
 .
 (pdftex.def)             Requested size: 426.79135pt x 509.32788pt.
 
@@ -2015,7 +1425,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//activer_tracking.png, id=209, 226.8475pt x 284.06125pt>
 File: ./images//activer_tracking.png Graphic file (type png)
 <use ./images//activer_tracking.png>
-Package pdftex.def Info: ./images//activer_tracking.png  used on input line 396
+Package pdftex.def Info: ./images//activer_tracking.png  used on input line 398
 .
 (pdftex.def)             Requested size: 226.84694pt x 284.06053pt.
 
@@ -2032,7 +1442,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: ./images//desactiver_tracking.png Graphic file (type png)
 <use ./images//desactiver_tracking.png>
 Package pdftex.def Info: ./images//desactiver_tracking.png  used on input line 
-402.
+404.
 (pdftex.def)             Requested size: 250.93687pt x 284.06053pt.
 
 
@@ -2047,7 +1457,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//envoyer_alerte.png, id=217, 658.46pt x 601.24625pt>
 File: ./images//envoyer_alerte.png Graphic file (type png)
 <use ./images//envoyer_alerte.png>
-Package pdftex.def Info: ./images//envoyer_alerte.png  used on input line 408.
+Package pdftex.def Info: ./images//envoyer_alerte.png  used on input line 410.
 (pdftex.def)             Requested size: 426.79135pt x 389.71368pt.
 
 
@@ -2063,7 +1473,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: ./images//consulter_alertes.png Graphic file (type png)
 <use ./images//consulter_alertes.png>
 Package pdftex.def Info: ./images//consulter_alertes.png  used on input line 41
-4.
+6.
 (pdftex.def)             Requested size: 333.24417pt x 284.06053pt.
 
 
@@ -2079,7 +1489,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: ./images//voir_details_alerte.png Graphic file (type png)
 <use ./images//voir_details_alerte.png>
 Package pdftex.def Info: ./images//voir_details_alerte.png  used on input line 
-420.
+422.
 (pdftex.def)             Requested size: 402.50276pt x 284.06053pt.
 
 
@@ -2094,7 +1504,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//activity_user.png, id=230, 513.92pt x 479.7925pt>
 File: ./images//activity_user.png Graphic file (type png)
 <use ./images//activity_user.png>
-Package pdftex.def Info: ./images//activity_user.png  used on input line 429.
+Package pdftex.def Info: ./images//activity_user.png  used on input line 431.
 (pdftex.def)             Requested size: 426.79135pt x 398.4546pt.
 
 
@@ -2109,7 +1519,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//activity_admin.png, id=234, 162.6075pt x 513.92pt>
 File: ./images//activity_admin.png Graphic file (type png)
 <use ./images//activity_admin.png>
-Package pdftex.def Info: ./images//activity_admin.png  used on input line 435.
+Package pdftex.def Info: ./images//activity_admin.png  used on input line 437.
 (pdftex.def)             Requested size: 162.6071pt x 513.91873pt.
 
 
@@ -2124,7 +1534,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//domain.png, id=239, 513.92pt x 386.44376pt>
 File: ./images//domain.png Graphic file (type png)
 <use ./images//domain.png>
-Package pdftex.def Info: ./images//domain.png  used on input line 441.
+Package pdftex.def Info: ./images//domain.png  used on input line 443.
 (pdftex.def)             Requested size: 426.79135pt x 320.93103pt.
 
 
@@ -2136,7 +1546,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [50 <./images//activity_admin.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 446--447
+Underfull \hbox (badness 10000) in paragraph at lines 448--449
 
  []
 
@@ -2149,25 +1559,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [51 <./images//domain.png>]
-
-LaTeX Warning: Citation 'harley_vera_data' on page 52 undefined on input line 4
-52.
-
-
-LaTeX Warning: Citation 'harley_vera_data' on page 52 undefined on input line 4
-54.
-
-
-Overfull \hbox (7.3494pt too wide) in paragraph at lines 454--455
-\OT1/ptm/m/n/14.4 Ces mod[]eles de donn[]ees d[]enormalis[]ees per-me-t-tent de
- ma-nip-uler les donn[]ees
- []
-
 <./images//doc_user.png, id=249, 306.14375pt x 476.78125pt>
 File: ./images//doc_user.png Graphic file (type png)
 <use ./images//doc_user.png>
-Package pdftex.def Info: ./images//doc_user.png  used on input line 461.
+Package pdftex.def Info: ./images//doc_user.png  used on input line 463.
 (pdftex.def)             Requested size: 161.16231pt x 250.13202pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2180,7 +1577,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//doc_alert.png, id=253, 369.38pt x 544.0325pt>
 File: ./images//doc_alert.png Graphic file (type png)
 <use ./images//doc_alert.png>
-Package pdftex.def Info: ./images//doc_alert.png  used on input line 467.
+Package pdftex.def Info: ./images//doc_alert.png  used on input line 469.
 (pdftex.def)             Requested size: 161.15808pt x 250.13347pt.
 
 
@@ -2206,22 +1603,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
  (./chapitres/chap3.tex
 Chapter 3.
 
-Overfull \hbox (32.72108pt too wide) in paragraph at lines 18--19
-[]\OT1/ptm/m/n/14.4 Cette con-cep-tion dis-tribu[]ee per-met une plus grande r[
-]eactivit[]e de l'application,
+Underfull \hbox (badness 1019) in paragraph at lines 20--21
+\OT1/ptm/m/n/14.4 ser-vices n[]ecessaires pour stocker et syn-chro-niser les do
+nn[]ees, g[]erer
  []
 
 
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 19.
+less on input line 21.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 19.
+less on input line 21.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 19.
+less on input line 21.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2240,20 +1637,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//architecture.png, id=265, 513.92pt x 237.88875pt>
 File: ./images//architecture.png Graphic file (type png)
 <use ./images//architecture.png>
-Package pdftex.def Info: ./images//architecture.png  used on input line 22.
+Package pdftex.def Info: ./images//architecture.png  used on input line 24.
 (pdftex.def)             Requested size: 426.79135pt x 197.56012pt.
 
-
-LaTeX Warning: Citation 'dmitry_jemerov_kotlin' on page 56 undefined on input l
-ine 29.
-
-
-LaTeX Warning: Citation 'ml_2023' on page 56 undefined on input line 32.
-
-
-Overfull \hbox (44.34276pt too wide) in paragraph at lines 32--33
-[]\OT1/ptm/m/n/14.4 TensorFlow Lite est une ver-sion l[]eg[]ere du frame-work T
-en-sor-Flow, sp[]ecialement
+Underfull \hbox (badness 1701) in paragraph at lines 34--35
+\OT1/ptm/m/n/14.4 TensorFlow Lite est une ver-sion l[]eg[]ere du frame-work Ten
+-sor-Flow,
  []
 
 
@@ -2266,36 +1655,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [56 <./images//architecture.png>]
 
-LaTeX Warning: Citation 'yamnet' on page 57 undefined on input line 38.
-
-
-LaTeX Warning: Citation 'andrew_g_howard_menglong_zhu_bo_chen_dmitry_kalenichen
-ko_weijun_wang_tobias_weyand_marco_andreetto_hartwig_adam_mobilenets' on page 5
-7 undefined on input line 38.
-
-
-LaTeX Warning: Citation 'dataset_large_scale' on page 57 undefined on input lin
-e 38.
-
-
-Overfull \hbox (21.27345pt too wide) in paragraph at lines 38--39
-[]\OT1/ptm/m/n/14.4 YAMNet[[]] est un r[]eseau neu-ronal pr[]eform[]e qui utili
-se l'architecture
- []
-
-
-Overfull \hbox (733.46352pt too wide) in paragraph at lines 38--39
-\OT1/ptm/m/n/14.4 de con-vo-lu-tion s[]eparable en pro-fondeur Mo-bileNetV1 [[]
-].
- []
-
-
-Overfull \hbox (4.19594pt too wide) in paragraph at lines 38--39
-\OT1/ptm/m/n/14.4 Il peut utiliser une forme d'onde au-dio comme entr[]ee et fa
-ire des pr[]edictions
- []
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -2307,7 +1666,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//deploiement.png, id=274, 269.005pt x 513.92pt>
 File: ./images//deploiement.png Graphic file (type png)
 <use ./images//deploiement.png>
-Package pdftex.def Info: ./images//deploiement.png  used on input line 52.
+Package pdftex.def Info: ./images//deploiement.png  used on input line 54.
 (pdftex.def)             Requested size: 269.00433pt x 513.91873pt.
 
 
@@ -2319,18 +1678,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [58]
-
-LaTeX Warning: Citation 'jesse_james_garrett_elements' on page 59 undefined on 
-input line 58.
-
-
-Overfull \hbox (9.52292pt too wide) in paragraph at lines 58--59
-[]\OT1/ptm/m/n/14.4 Le pro-ces-sus de con-cep-tion de l'exp[]erience util-isa-t
-eur con-siste []a s'assurer
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
@@ -2343,19 +1691,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [59 <./images//deploiement.png>]
-Overfull \hbox (2.1072pt too wide) in paragraph at lines 62--63
+Underfull \hbox (badness 1377) in paragraph at lines 64--65
 []\OT1/ptm/m/n/14.4 Tout d'abord, il est es-sen-tiel de com-pren-dre les be-soi
-ns, les comp[]etences
+ns, les
  []
-
-
-Overfull \hbox (4.1086pt too wide) in paragraph at lines 62--63
-\OT1/ptm/m/n/14.4 tech-niques et les pr[]ef[]erences des util-isa-teurs po-ten-
-tiels []a Lubum-bashi. Cette
- []
-
-
-LaTeX Warning: Citation 'services' on page 60 undefined on input line 66.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2369,12 +1708,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//fonctionnement.png, id=285, 513.92pt x 295.1025pt>
 File: ./images//fonctionnement.png Graphic file (type png)
 <use ./images//fonctionnement.png>
-Package pdftex.def Info: ./images//fonctionnement.png  used on input line 72.
+Package pdftex.def Info: ./images//fonctionnement.png  used on input line 74.
 (pdftex.def)             Requested size: 426.79135pt x 245.07458pt.
 <./images//code_permission.png, id=286, 691.58376pt x 470.75874pt>
 File: ./images//code_permission.png Graphic file (type png)
 <use ./images//code_permission.png>
-Package pdftex.def Info: ./images//code_permission.png  used on input line 78.
+Package pdftex.def Info: ./images//code_permission.png  used on input line 80.
 (pdftex.def)             Requested size: 426.79135pt x 290.51697pt.
 
 
@@ -2389,13 +1728,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//code_location.png, id=291, 954.56625pt x 684.5575pt>
 File: ./images//code_location.png Graphic file (type png)
 <use ./images//code_location.png>
-Package pdftex.def Info: ./images//code_location.png  used on input line 84.
+Package pdftex.def Info: ./images//code_location.png  used on input line 86.
 (pdftex.def)             Requested size: 426.79135pt x 306.06337pt.
 <./images//code_classification.png, id=292, 1109.14375pt x 870.25125pt>
 File: ./images//code_classification.png Graphic file (type png)
 <use ./images//code_classification.png>
 Package pdftex.def Info: ./images//code_classification.png  used on input line 
-90.
+92.
 (pdftex.def)             Requested size: 426.79135pt x 334.8685pt.
 
 
@@ -2410,7 +1749,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//code_detection.png, id=298, 787.94376pt x 762.85pt>
 File: ./images//code_detection.png Graphic file (type png)
 <use ./images//code_detection.png>
-Package pdftex.def Info: ./images//code_detection.png  used on input line 96.
+Package pdftex.def Info: ./images//code_detection.png  used on input line 98.
 (pdftex.def)             Requested size: 426.79135pt x 413.19pt.
 
 
@@ -2426,7 +1765,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: ./images//code_envoi_alerte.png Graphic file (type png)
 <use ./images//code_envoi_alerte.png>
 Package pdftex.def Info: ./images//code_envoi_alerte.png  used on input line 10
-2.
+4.
 (pdftex.def)             Requested size: 426.79135pt x 333.35457pt.
 
 
@@ -2441,7 +1780,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//phone.png, id=309, 1084.05pt x 2417.03pt>
 File: ./images//phone.png Graphic file (type png)
 <use ./images//phone.png>
-Package pdftex.def Info: ./images//phone.png  used on input line 111.
+Package pdftex.def Info: ./images//phone.png  used on input line 113.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
 
 
@@ -2468,12 +1807,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//otp.png, id=317, 1084.05pt x 2417.03pt>
 File: ./images//otp.png Graphic file (type png)
 <use ./images//otp.png>
-Package pdftex.def Info: ./images//otp.png  used on input line 117.
+Package pdftex.def Info: ./images//otp.png  used on input line 119.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
 <./images//profile.png, id=318, 1084.05pt x 2417.03pt>
 File: ./images//profile.png Graphic file (type png)
 <use ./images//profile.png>
-Package pdftex.def Info: ./images//profile.png  used on input line 123.
+Package pdftex.def Info: ./images//profile.png  used on input line 125.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
 
 
@@ -2488,7 +1827,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//home.png, id=322, 1084.05pt x 2417.03pt>
 File: ./images//home.png Graphic file (type png)
 <use ./images//home.png>
-Package pdftex.def Info: ./images//home.png  used on input line 129.
+Package pdftex.def Info: ./images//home.png  used on input line 131.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
 
 
@@ -2503,7 +1842,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//add_contact.png, id=326, 1084.05pt x 2417.03pt>
 File: ./images//add_contact.png Graphic file (type png)
 <use ./images//add_contact.png>
-Package pdftex.def Info: ./images//add_contact.png  used on input line 135.
+Package pdftex.def Info: ./images//add_contact.png  used on input line 137.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
 
 
@@ -2518,7 +1857,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//trackingenabled.png, id=331, 1084.05pt x 2417.03pt>
 File: ./images//trackingenabled.png Graphic file (type png)
 <use ./images//trackingenabled.png>
-Package pdftex.def Info: ./images//trackingenabled.png  used on input line 141.
+Package pdftex.def Info: ./images//trackingenabled.png  used on input line 143.
 
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
 
@@ -2534,7 +1873,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//foreground.png, id=335, 1084.05pt x 2417.03pt>
 File: ./images//foreground.png Graphic file (type png)
 <use ./images//foreground.png>
-Package pdftex.def Info: ./images//foreground.png  used on input line 147.
+Package pdftex.def Info: ./images//foreground.png  used on input line 149.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
 
 
@@ -2549,7 +1888,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//sendingalerts.png, id=339, 1084.05pt x 2417.03pt>
 File: ./images//sendingalerts.png Graphic file (type png)
 <use ./images//sendingalerts.png>
-Package pdftex.def Info: ./images//sendingalerts.png  used on input line 153.
+Package pdftex.def Info: ./images//sendingalerts.png  used on input line 155.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
 
 
@@ -2564,7 +1903,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//sms.png, id=343, 1084.05pt x 2417.03pt>
 File: ./images//sms.png Graphic file (type png)
 <use ./images//sms.png>
-Package pdftex.def Info: ./images//sms.png  used on input line 159.
+Package pdftex.def Info: ./images//sms.png  used on input line 161.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
 
 
@@ -2579,10 +1918,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//admin_auth.png, id=347, 1927.2pt x 977.6525pt>
 File: ./images//admin_auth.png Graphic file (type png)
 <use ./images//admin_auth.png>
-Package pdftex.def Info: ./images//admin_auth.png  used on input line 165.
+Package pdftex.def Info: ./images//admin_auth.png  used on input line 167.
 (pdftex.def)             Requested size: 426.79135pt x 216.5014pt.
 
-Overfull \hbox (0.79999pt too wide) in paragraph at lines 165--166
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 167--168
  [][] 
  []
 
@@ -2598,20 +1937,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <./images//admin_home.png, id=351, 1927.2pt x 977.6525pt>
 File: ./images//admin_home.png Graphic file (type png)
 <use ./images//admin_home.png>
-Package pdftex.def Info: ./images//admin_home.png  used on input line 171.
+Package pdftex.def Info: ./images//admin_home.png  used on input line 173.
 (pdftex.def)             Requested size: 426.79135pt x 216.5014pt.
 
-Overfull \hbox (0.79999pt too wide) in paragraph at lines 171--172
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 173--174
  [][] 
  []
 
 <./images//admin_details.png, id=352, 1927.2pt x 977.6525pt>
 File: ./images//admin_details.png Graphic file (type png)
 <use ./images//admin_details.png>
-Package pdftex.def Info: ./images//admin_details.png  used on input line 177.
+Package pdftex.def Info: ./images//admin_details.png  used on input line 179.
 (pdftex.def)             Requested size: 426.79135pt x 216.5014pt.
 
-Overfull \hbox (0.79999pt too wide) in paragraph at lines 177--178
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 179--180
  [][] 
  []
 
@@ -2624,13 +1963,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [75 <./images//admin_auth.png> <./images//admin_home.png>]
-Overfull \hbox (18.26482pt too wide) in paragraph at lines 188--189
-\OT1/ptm/m/n/14.4 con-stitu[]e un ob-sta-cle ma-jeur. Les donn[]ees sur les enl
-[]evements, leur fr[]equence,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 194--195
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
 
  []
 
@@ -2655,32 +1988,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout2 = `./chapitres/conclusion.aux'.
 
  (./chapitres/conclusion.tex
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
 )
-Overfull \hbox (2.87128pt too wide) in paragraph at lines 8--109
-[]\OT1/ptm/m/n/14.4 En fin de compte, nous esp[]erons que notre tra-vail con-tr
-ibuera []a am[]eliorer
- []
-
 
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 109.
+less on input line 97.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 109.
+less on input line 97.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 109.
+less on input line 97.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2696,46 +2024,98 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-
-LaTeX Warning: Empty bibliography on input line 110.
-
 \openout2 = `./chapitres/bibliographie.aux'.
 
-(./chapitres/bibliographie.tex) (./main.aux (./page-de-garde.aux)
-(./chapitres/epigraphe.aux) (./chapitres/dedicace.aux)
-(./chapitres/remerciement.aux) (./chapitres/acronyme.aux)
-(./chapitres/avant-propos.aux) (./chapitres/introduction.aux)
-(./chapitres/chap1.aux) (./chapitres/chap2.aux) (./chapitres/chap3.aux)
-(./chapitres/conclusion.aux) (./chapitres/bibliographie.aux))
-
-LaTeX Warning: There were undefined references.
+ (./chapitres/bibliographie.tex (./main.bbl
+Underfull \hbox (badness 2197) in paragraph at lines 51--54
+[]\OT1/ptm/m/n/14.4 Fr[]ed[]eric Even-nou, ``Tech-niques et tech-nolo-gies de l
+o-cal-i-sa-tion
+ []
 
 
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 72.
 
-Package logreq Info: Writing requests to 'main.run.xml'.
-\openout1 = `main.run.xml'.
 
- ) 
+Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 72.
+
+
+Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 72.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[79
+
+
+
+
+]
+LaTeX Info: Symbol \textasciiacute not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 86.
+
+Underfull \hbox (badness 2922) in paragraph at lines 83--87
+[]\OT1/ptm/m/n/14.4 Harley Vera, Wag-ner Boaven-tura, Maris-tela Holanda, Va-le
+-ria
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 83--87
+\OT1/ptm/m/n/14.4 Guimaraes, and Fer-nanda Hondo, ``Data Mod-el-ing for NoSQL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--120
+[]\OT1/ptm/m/n/14.4 ``Services overview,'' En ligne, con-sult[]e
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 117--120
+\OT1/ptm/m/n/14.4 le: 21 septem-bre 2023. [On-line]. Avail-able:
+ []
+
+))
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[80] (./main.aux (./page-de-garde.aux) (./chapitres/epigraphe.aux)
+(./chapitres/dedicace.aux) (./chapitres/remerciement.aux)
+(./chapitres/acronyme.aux) (./chapitres/avant-propos.aux)
+(./chapitres/introduction.aux) (./chapitres/chap1.aux) (./chapitres/chap2.aux)
+(./chapitres/chap3.aux) (./chapitres/conclusion.aux)
+(./chapitres/bibliographie.aux)) ) 
 Here is how much of TeX's memory you used:
- 14610 strings out of 480247
- 285185 string characters out of 5896151
- 992215 words of memory out of 5000000
- 32288 multiletter control sequences out of 15000+600000
- 484550 words of font info for 51 fonts, out of 8000000 for 9000
+ 7252 strings out of 480247
+ 137342 string characters out of 5896151
+ 410504 words of memory out of 5000000
+ 24994 multiletter control sequences out of 15000+600000
+ 485590 words of font info for 54 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,12n,70p,1457b,1538s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
-/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (94 pages, 2543095 bytes).
+ 55i,12n,70p,1422b,556s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/yv/.texlive2021/texmf-var/fonts/pk/lj
+four/jknappen/ec/tcti1440.600pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/
+base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy
+10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (96 pages, 2546883 bytes).
 PDF statistics:
- 397 PDF objects out of 1000 (max. 8388607)
- 226 compressed objects within 3 object streams
+ 408 PDF objects out of 1000 (max. 8388607)
+ 234 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  216 words of extra memory for PDF output out of 10000 (max. 10000000)
 

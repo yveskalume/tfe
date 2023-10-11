@@ -1,0 +1,95 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: ./page-de-garde.aux
+A level-1 auxiliary file: ./chapitres/epigraphe.aux
+A level-1 auxiliary file: ./chapitres/dedicace.aux
+A level-1 auxiliary file: ./chapitres/remerciement.aux
+A level-1 auxiliary file: ./chapitres/acronyme.aux
+A level-1 auxiliary file: ./chapitres/avant-propos.aux
+A level-1 auxiliary file: ./chapitres/introduction.aux
+A level-1 auxiliary file: ./chapitres/chap1.aux
+A level-1 auxiliary file: ./chapitres/chap2.aux
+A level-1 auxiliary file: ./chapitres/chap3.aux
+A level-1 auxiliary file: ./chapitres/conclusion.aux
+A level-1 auxiliary file: ./chapitres/bibliographie.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: ref.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--edition ordinal word "Second edition" may be too high (or improper) for conversion in the_dsdm_consortium_dsdm
+Warning--missing publisher in the_dsdm_consortium_dsdm
+Warning--empty year in the_dsdm_consortium_dsdm
+Name 4 in "Agrawal, Agrima and Maurya, Ankita and Patil, Amruta and Student, and Guide, Research" has a comma at the end for entry voice_controlled
+while executing---line 2403 of file IEEEtran.bst
+Warning--empty journal in voice_controlled
+Warning--missing publisher in michael_brian_schiffer_electric_2005
+Warning--missing publisher in frederic_chapin_lane_venice_1973
+Warning--empty year in p_daly_navstar_nodate
+Warning--missing publisher in bernhard_hofmann_wellenhof_gnss
+Warning--empty year in bernhard_hofmann_wellenhof_gnss
+Warning--edition ordinal word "éd. Eyrolles" may be too high (or improper) for conversion in xavier_blanc_uml2
+Warning--missing publisher in xavier_blanc_uml2
+Warning--empty year in xavier_blanc_uml2
+Warning--edition ordinal word "Westford, Massachusetts: addison-wesley." may be too high (or improper) for conversion in jim_arlow_uml
+Warning--missing publisher in jim_arlow_uml
+Warning--empty year in jim_arlow_uml
+Warning--missing publisher in jason_bennett_agile
+Warning--empty year in jason_bennett_agile
+Warning--empty year in mark_richards_fundamentals
+Warning--empty year in harley_vera_data
+Warning--empty year in dmitry_jemerov_kotlin
+Warning--empty booktitle in andrew_g_howard_menglong_zhu_bo_chen_dmitry_kalenichenko_weijun_wang_tobias_weyand_marco_andreetto_hartwig_adam_mobilenets
+Warning--empty year in andrew_g_howard_menglong_zhu_bo_chen_dmitry_kalenichenko_weijun_wang_tobias_weyand_marco_andreetto_hartwig_adam_mobilenets
+Warning--missing publisher in jesse_james_garrett_elements
+Warning--empty year in jesse_james_garrett_elements
+
+Done.
+You've used 21 entries,
+            4087 wiz_defined-function locations,
+            913 strings with 10581 characters,
+and the built_in function-call counts, 7333 in all, are:
+= -- 494
+> -- 143
+< -- 7
++ -- 67
+- -- 31
+* -- 307
+:= -- 1210
+add.period$ -- 34
+call.type$ -- 21
+change.case$ -- 18
+chr.to.int$ -- 18
+cite$ -- 45
+duplicate$ -- 625
+empty$ -- 794
+format.name$ -- 39
+if$ -- 1648
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 113
+newline$ -- 94
+num.names$ -- 16
+pop$ -- 388
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 8
+skip$ -- 602
+stack$ -- 0
+substring$ -- 19
+swap$ -- 309
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 21
+warning$ -- 24
+while$ -- 16
+width$ -- 23
+write$ -- 171
+(There was 1 error message)

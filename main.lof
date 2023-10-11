@@ -1,46 +1,46 @@
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Carte d’une station de base LORAN\relax }}{7}{}%
-\contentsline {figure}{\numberline {1.2}{\ignorespaces Principe du GPS dans un espace 1-D\relax }}{12}{}%
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Principe du GPS dans un espace 2-D\relax }}{13}{}%
-\contentsline {figure}{\numberline {1.4}{\ignorespaces Caputre de l’application ICE GeoAlert\relax }}{14}{}%
-\contentsline {figure}{\numberline {1.5}{\ignorespaces Caputre de l’application The Sorority\relax }}{16}{}%
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Carte d’une station de base LORAN\relax }}{10}{}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Principe du GPS dans un espace 1-D\relax }}{17}{}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Principe du GPS dans un espace 2-D\relax }}{19}{}%
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Caputre de l’application ICE GeoAlert\relax }}{20}{}%
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Caputre de l’application The Sorority\relax }}{22}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Aperçu général du processus DSDM[11]\relax }}{20}{}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Diagramme de cas d’utilisation\relax }}{23}{}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Diagramme de séquence S’authentifier\relax }}{25}{}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Diagramme de séquence Consulter contacts\relax }}{26}{}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Diagramme de séquence Ajouter contact\relax }}{27}{}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Diagramme de séquence Supprimer contact\relax }}{28}{}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Diagramme de séquence Modifier contact\relax }}{29}{}%
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Diagramme de séquence Activer tracking\relax }}{30}{}%
-\contentsline {figure}{\numberline {2.9}{\ignorespaces Diagramme de séquence Désactiver tracking\relax }}{31}{}%
-\contentsline {figure}{\numberline {2.10}{\ignorespaces Diagramme de séquence Envoyer alerte\relax }}{32}{}%
-\contentsline {figure}{\numberline {2.11}{\ignorespaces Diagramme de séquence Consulter alertes\relax }}{33}{}%
-\contentsline {figure}{\numberline {2.12}{\ignorespaces Diagramme de séquence Voir détails alertes\relax }}{34}{}%
-\contentsline {figure}{\numberline {2.13}{\ignorespaces Diagramme de séquence Envoyer alerte\relax }}{35}{}%
-\contentsline {figure}{\numberline {2.14}{\ignorespaces Diagramme d’activité administrateur\relax }}{36}{}%
-\contentsline {figure}{\numberline {2.15}{\ignorespaces Modèle de domaine\relax }}{37}{}%
-\contentsline {figure}{\numberline {2.16}{\ignorespaces Document utilisateur contenant des sous-documents Contact\relax }}{38}{}%
-\contentsline {figure}{\numberline {2.17}{\ignorespaces Document Alert contenant des sous-documents AlertLocation\relax }}{39}{}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Aperçu général du processus DSDM\blx@tocontentsinit {0}\cite {the_dsdm_consortium_dsdm}\relax }}{27}{}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Diagramme de cas d’utilisation\relax }}{31}{}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Diagramme de séquence S’authentifier\relax }}{39}{}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Diagramme de séquence Consulter contacts\relax }}{40}{}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Diagramme de séquence Ajouter contact\relax }}{41}{}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Diagramme de séquence Supprimer contact\relax }}{42}{}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Diagramme de séquence Modifier contact\relax }}{43}{}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Diagramme de séquence Activer tracking\relax }}{44}{}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Diagramme de séquence Désactiver tracking\relax }}{45}{}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Diagramme de séquence Envoyer alerte\relax }}{46}{}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Diagramme de séquence Consulter alertes\relax }}{47}{}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Diagramme de séquence Voir détails alertes\relax }}{48}{}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Diagramme de séquence Envoyer alerte\relax }}{49}{}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Diagramme d’activité administrateur\relax }}{50}{}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Modèle de domaine\relax }}{51}{}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Document utilisateur contenant des sous-documents Contact\relax }}{53}{}%
+\contentsline {figure}{\numberline {2.17}{\ignorespaces Document Alert contenant des sous-documents AlertLocation\relax }}{53}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Présentation de l'architecture physique\relax }}{41}{}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Diagramme de déploiement\relax }}{43}{}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Communication des différentes composantes lors de l’envoi d’une alerte\relax }}{45}{}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Demande de permission et lancement du service TrackingService\relax }}{45}{}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Récupération de la localisation\relax }}{46}{}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Classification des entrées sonores\relax }}{47}{}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Détection d’une commande vocale sur les entrées audios\relax }}{48}{}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Envois d’alertes\relax }}{49}{}%
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Écran d’enregistrement du numéro de l’utilisateur\relax }}{50}{}%
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Écran de soumission du code de confirmation\relax }}{51}{}%
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Écran d’enregistrement de l’identité de l’utilisateur\relax }}{52}{}%
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Écran principal\relax }}{53}{}%
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Écran permettant d’ajouter un contact\relax }}{54}{}%
-\contentsline {figure}{\numberline {3.14}{\ignorespaces Écran d'accueil, tracking activé\relax }}{55}{}%
-\contentsline {figure}{\numberline {3.15}{\ignorespaces Notification signalant que le tracking est en cours\relax }}{56}{}%
-\contentsline {figure}{\numberline {3.16}{\ignorespaces Écran principal, alertes en cours d’envoi\relax }}{57}{}%
-\contentsline {figure}{\numberline {3.17}{\ignorespaces SMS d’alerte\relax }}{58}{}%
-\contentsline {figure}{\numberline {3.18}{\ignorespaces Page de connexion administrateur\relax }}{59}{}%
-\contentsline {figure}{\numberline {3.19}{\ignorespaces Listes des alertes\relax }}{59}{}%
-\contentsline {figure}{\numberline {3.20}{\ignorespaces Détail d’une alerte\relax }}{60}{}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Présentation de l'architecture physique\relax }}{56}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Diagramme de déploiement\relax }}{59}{}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Communication des différentes composantes lors de l’envoi d’une alerte\relax }}{61}{}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Demande de permission et lancement du service TrackingService\relax }}{62}{}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Récupération de la localisation\relax }}{62}{}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Classification des entrées sonores\relax }}{63}{}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Détection d’une commande vocale sur les entrées audios\relax }}{64}{}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Envois d’alertes\relax }}{65}{}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Écran d’enregistrement du numéro de l’utilisateur\relax }}{66}{}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Écran de soumission du code de confirmation\relax }}{67}{}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Écran d’enregistrement de l’identité de l’utilisateur\relax }}{68}{}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Écran principal\relax }}{69}{}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Écran permettant d’ajouter un contact\relax }}{70}{}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Écran d'accueil, tracking activé\relax }}{71}{}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Notification signalant que le tracking est en cours\relax }}{72}{}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Écran principal, alertes en cours d’envoi\relax }}{73}{}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces SMS d’alerte\relax }}{74}{}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Page de connexion administrateur\relax }}{75}{}%
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Listes des alertes\relax }}{75}{}%
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Détail d’une alerte\relax }}{76}{}%
 \contentsfinish 

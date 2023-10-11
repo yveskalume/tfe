@@ -1,10 +1,10 @@
-\documentclass{report}
+\documentclass[12pt]{report}
 \usepackage{graphicx}
 \usepackage{fancyhdr}
 \usepackage{times}
 \usepackage{caption}
+\usepackage[a4paper,left=3.5cm,top=3.5cm,right=2.5cm,bottom=2.5cm,]{geometry}
 \usepackage{ragged2e}
-\usepackage{geometry}
 \usepackage{enumitem}
 \graphicspath{ {./images/} }
 \usepackage{subfiles}
@@ -15,53 +15,50 @@
 \usepackage{float}
 \usepackage{dirtytalk}
 \usepackage{tabularx}
+\usepackage[export]{adjustbox}
+\usepackage[
+backend=biber,
+style=numeric-comp,
+sorting=ynt
+]{biblatex}
+\addbibresource{ref.bib}
 \setstretch{1.25}
 
 \title{CONCEPTION D'UN SYSTÈME D’APPEL AU SECOURS : CAS D'ENLÈVEMENT DANS LA VILLE DE LUBUMBASHI \LaTeX}
 \author{KALUME NSENGA YVES}
 
-
-\geometry{
-	a4paper,
-	left=3.5cm,
-	top=3.5cm,
-	right=2.5cm,
-	bottom=2.5cm,
-}
-
 \setcounter{tocdepth}{3}
 \setcounter{secnumdepth}{3}
 
-\pagestyle{fancy}
-\fancyhf{}
-\fancyhead[RE]{}
-\fancyhead[LO]{}
-\fancyfoot[RO,LE]{}
-\fancypagestyle{plain}{% copies "fancy" over "plain"
-	\fancyhead[R]{\thepage}% you can add edits that won't affect "fancy" but only "plain"
-}
+%\pagestyle{fancy}
+%\fancyhf{}
+%\fancyhead[RE]{}
+%\fancyhead[LO]{}
+%\fancyfoot[RO,LE]{}
+%\fancypagestyle{plain}{% copies "fancy" over "plain"
+%	\fancyhead[R]{\thepage}% you can add edits that won't affect "fancy" but only "plain"
+%}
 \renewcommand{\headrulewidth}{0mm}
 \renewcommand{\headruleskip}{0mm}
 
 % Personnalisation du style du titre du chapitre
 \titleformat{\chapter}[hang]
-{\centering\large\bfseries}{CHAP \Roman{chapter} : }{1pt}{}
+{\centering\bfseries}{CHAP \Roman{chapter} : }{1pt}{}
 \titlespacing*{\chapter}{0pt}{0pt}{20pt}
 
 \titleformat{\section}
-{\large\bfseries}{\thesection}{1em}{\large}
+{\bfseries}{\thesection}{1em}{}
 
 \titleformat{\subsection}
-{\normalfont\large\bfseries\itshape}{\thesubsection}{1em}{}
+{\normalfont\bfseries\itshape}{\thesubsection}{1em}{}
 
 \titleformat{\subsubsection}
-{\normalfont\large\itshape}{\thesubsubsection}{1em}{}
+{\normalfont\itshape}{\thesubsubsection}{1em}{}
 
 \captionsetup[figure]{
 	font=it, % Italic font
 	singlelinecheck=true, % Allow multi-line captions to be centered
 	justification=centering, % Center the caption text
-	size=large % Set the font size to large
 }
 
 \renewcommand{\contentsname}{TABLE DES MATIÈRES}
@@ -75,7 +72,26 @@
 	
 	\include{./page-de-garde}
 	
+	\pagestyle{fancy}
+	
+	\fancypagestyle{plain}{% % <-- this is new
+		\fancyhead{}
+		\fancyhead[RO,LE]{\textbf{Page \textbar\ \thepage}}
+		\fancyfoot{}
+		\fancyfoot[LE,RO]{\textit{2023}}
+		\fancyfoot[LO,CE]{\textit{TFC\_ESIS\_GL}}
+		\renewcommand{\headrulewidth}{0.4pt}
+	}
+	
+	\fancyhead{}
+	\fancyhead[RO,LE]{\textbf{Page \textbar\ \thepage}}
+	\fancyfoot{}
+	\fancyfoot[LE,RO]{\textit{2023}}
+	\fancyfoot[LO,CE]{\textit{TFC\_ESIS\_GL}}
+	\renewcommand{\headrulewidth}{0.4pt}
+	
 	\pagenumbering{Roman}
+	
 	\include{./chapitres/epigraphe}
 	\include{./chapitres/dedicace}
 	\include{./chapitres/remerciement}
@@ -91,4 +107,6 @@
 	\include{./chapitres/chap2}
 	\include{./chapitres/chap3}
 	\include{./chapitres/conclusion}
+	\printbibliography
+	\include{./chapitres/bibliographie}
 \end{document}

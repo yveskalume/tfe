@@ -26,16 +26,16 @@ Cette conception distribuée permet une plus grande réactivité de l'applicatio
 \section{Technologies utilisées}
 \subsection{Kotlin}
 Kotlin est un langage de programmation orienté objet, à typage statique, interopérable avec la machine virtuelle Java, les bibliothèques de classes Java et Android.
-Il peut être utilisé presque partout où Java est utilisé, pour le développement côté serveur, les applications Android et bien plus encore. Kotlin fonctionne parfaitement avec toutes les et s'exécute avec le même niveau de performance que Java [14].
+Il peut être utilisé presque partout où Java est utilisé, pour le développement côté serveur, les applications Android et bien plus encore. Kotlin fonctionne parfaitement avec toutes les et s'exécute avec le même niveau de performance que Java \cite{dmitry_jemerov_kotlin}.
 
 \subsection{TensorFlow lite}
-TensorFlow Lite est une version légère du framework TensorFlow, spécialement conçue pour exécuter des modèles d'apprentissage automatique sur des appareils mobiles et des systèmes embarqués. Son principal avantage réside dans sa capacité à maintenir des performances élevées tout en étant optimisé pour des environnements aux ressources limitées. TensorFlow Lite  permet de déployer des modèles d'intelligence artificielle directement sur des smartphones, des objets connectés, et même des microcontrôleurs, ouvrant ainsi la porte à une gamme étendue d'applications, de la vision par ordinateur à la reconnaissance vocale, le tout en conservant une faible empreinte mémoire et une exécution rapide [15].
+TensorFlow Lite est une version légère du framework TensorFlow, spécialement conçue pour exécuter des modèles d'apprentissage automatique sur des appareils mobiles et des systèmes embarqués. Son principal avantage réside dans sa capacité à maintenir des performances élevées tout en étant optimisé pour des environnements aux ressources limitées. TensorFlow Lite  permet de déployer des modèles d'intelligence artificielle directement sur des smartphones, des objets connectés, et même des microcontrôleurs, ouvrant ainsi la porte à une gamme étendue d'applications, de la vision par ordinateur à la reconnaissance vocale, le tout en conservant une faible empreinte mémoire et une exécution rapide \cite{ml_2023}.
 
 \subsection{Mediapipe}
 MediaPipe est un outil développé par Google qui offre des outils et des modèles pour le traitement des médias en temps réel, y compris la vision par ordinateur et le suivi de mouvement. Il simplifie le déploiement des modèles de machine learning sur des périphériques tels que des smartphones avec des bibliothèques low code. Ces bibliothèques comprennent actuellement des outils pour trois catégories : la vidéo, l'audio et le texte.
 
 \subsection{Yamnet}
-YAMNet[16] est un réseau neuronal préformé qui utilise l'architecture de convolution séparable en profondeur MobileNetV1 [17]. Il peut utiliser une forme d'onde audio comme entrée et faire des prédictions indépendantes pour chacun des 521 événements audio du corpus AudioSet [18].
+YAMNet\cite{yamnet} est un réseau neuronal préformé qui utilise l'architecture de convolution séparable en profondeur MobileNetV1 \cite{andrew_g_howard_menglong_zhu_bo_chen_dmitry_kalenichenko_weijun_wang_tobias_weyand_marco_andreetto_hartwig_adam_mobilenets}. Il peut utiliser une forme d'onde audio comme entrée et faire des prédictions indépendantes pour chacun des 521 événements audio du corpus AudioSet \cite{dataset_large_scale}.
 
 \subsection{Firebase}
 Firebase est une plateforme de développement d'applications mobiles et web appartenant à Google, qui offre un ensemble de services cloud, tels que des bases de données en temps réel, l'authentification des utilisateurs, l'hébergement web, le stockage de fichiers, et des outils d'analyse avancés. Elle simplifie considérablement le développement d'applications en fournissant des fonctionnalités prêtes à l'emploi, ce qui permet aux développeurs de se concentrer sur la création de fonctionnalités uniques tout en bénéficiant de la puissance du cloud pour la gestion des données et des utilisateurs.
@@ -55,7 +55,7 @@ Android Studio est un environnement de développement intégré officiellement p
 
 \section{Expérience utilisateur et fonctionnement}
 \subsection{Expérience utilisateur}
-Le processus de conception de l'expérience utilisateur consiste à s'assurer qu'aucun aspect de l'expérience de l'utilisateur avec une solution ne se produit sans l’intention consciente et explicite de ce dernier. Cela signifie qu'il faut prendre en compte chaque possibilité de chaque action que l'utilisateur est susceptible de faire et de comprendre ses attentes à chaque étape du processus [19].\\
+Le processus de conception de l'expérience utilisateur consiste à s'assurer qu'aucun aspect de l'expérience de l'utilisateur avec une solution ne se produit sans l’intention consciente et explicite de ce dernier. Cela signifie qu'il faut prendre en compte chaque possibilité de chaque action que l'utilisateur est susceptible de faire et de comprendre ses attentes à chaque étape du processus \cite{jesse_james_garrett_elements}.\\
 
 Dans le cadre de notre travail, l'attention portée à l'UX est cruciale pour garantir l'adoption et l'efficacité du système par les utilisateurs finaux.
 
@@ -63,7 +63,7 @@ Tout d'abord, il est essentiel de comprendre les besoins, les compétences techn
 
 \subsection{Fonctionnement}
 
-Pour permettre à notre application mobile de recevoir des commandes, nous avons recouru au composant d’application appelé service. Un service est un composant d'application qui peut effectuer des opérations de longue durée en arrière-plan. Il ne fournit pas d'interface utilisateur. Une fois lancé, un service peut continuer à fonctionner pendant un certain temps, même après que l'utilisateur a basculé vers une autre application [20]. Mais avant tout, nous devrions commencer par demander la permission d'accéder à la géolocalisation ainsi qu'au périphérique audio du smartphone, notamment le microphone.
+Pour permettre à notre application mobile de recevoir des commandes, nous avons recouru au composant d’application appelé service. Un service est un composant d'application qui peut effectuer des opérations de longue durée en arrière-plan. Il ne fournit pas d'interface utilisateur. Une fois lancé, un service peut continuer à fonctionner pendant un certain temps, même après que l'utilisateur a basculé vers une autre application \cite{services}. Mais avant tout, nous devrions commencer par demander la permission d'accéder à la géolocalisation ainsi qu'au périphérique audio du smartphone, notamment le microphone.
 
 Une fois que l'application a obtenu l'accès au microphone, les données captées sont évaluées à l'aide de MediaPipe et TensorFlow Lite. MediaPipe et TensorFlow Lite ont respectivement pour objectif de détecter des bruits tels que les pleurs et les gémissements, qui peuvent indiquer qu'une personne est en danger, ainsi que des commandes vocales spécifiques. Ces scénarios déclenchent alors le lancement d'alertes. Les alertes entraînent l'envoi de messages contenant la géolocalisation du smartphone aux contacts préenregistrés, ainsi qu'au serveur backend, dans le cas où le smartphone dispose d'une connexion Internet.
 
@@ -108,73 +108,73 @@ Une fois que l'application a obtenu l'accès au microphone, les données captée
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=3.6in]{phone}
+	\includegraphics[width=3.6in,frame]{phone}
 	\caption{Écran d’enregistrement du numéro de l’utilisateur}
 \end{figure}
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=3.6in]{otp}
+	\includegraphics[width=3.6in,frame]{otp}
 	\caption{Écran de soumission du code de confirmation}
 \end{figure}
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=3.6in]{profile}
+	\includegraphics[width=3.6in,frame]{profile}
 	\caption{Écran d’enregistrement de l’identité de l’utilisateur}
 \end{figure}
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=3.6in]{home}
+	\includegraphics[width=3.6in,frame]{home}
 	\caption{Écran principal}
 \end{figure}
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=3.6in]{add_contact}
+	\includegraphics[width=3.6in,frame]{add_contact}
 	\caption{Écran permettant d’ajouter un contact}
 \end{figure}
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=3.6in]{trackingenabled}
+	\includegraphics[width=3.6in,frame]{trackingenabled}
 	\caption{Écran d'accueil, tracking activé}
 \end{figure}
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=3.6in]{foreground}
+	\includegraphics[width=3.6in,frame]{foreground}
 	\caption{Notification signalant que le tracking est en cours}
 \end{figure}
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=3.6in]{sendingalerts}
+	\includegraphics[width=3.6in,frame]{sendingalerts}
 	\caption{Écran principal, alertes en cours d’envoi}
 \end{figure}
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=3.6in]{sms}
+	\includegraphics[width=3.6in,frame]{sms}
 	\caption{SMS d’alerte}
 \end{figure}
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=\textwidth]{admin_auth}
+	\includegraphics[width=\textwidth,frame]{admin_auth}
 	\caption{Page de connexion administrateur}
 \end{figure}
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=\textwidth]{admin_home}
+	\includegraphics[width=\textwidth,frame]{admin_home}
 	\caption{Listes des alertes}
 \end{figure}
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=\textwidth]{admin_details}
+	\includegraphics[width=\textwidth,frame]{admin_details}
 	\caption{Détail d’une alerte}
 \end{figure}
 

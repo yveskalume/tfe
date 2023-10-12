@@ -1,4 +1,4 @@
-\documentclass[12pt]{report}
+\documentclass{report}
 \setlength{\parskip}{1pt}
 \usepackage{graphicx}
 \usepackage{fancyhdr}
@@ -12,6 +12,7 @@
 \usepackage{titlesec}
 \usepackage{titletoc}
 \usepackage{setspace}
+\usepackage{indentfirst}
 \usepackage{float}
 \usepackage{dirtytalk}
 \usepackage{tabularx}
@@ -29,22 +30,23 @@
 
 % Personnalisation du style du titre du chapitre
 \titleformat{\chapter}[hang]
-{\centering\bfseries}{CHAP \Roman{chapter} : }{1pt}{}
+{\centering\large\bfseries}{CHAP \Roman{chapter} : }{1pt}{}
 \titlespacing*{\chapter}{0pt}{0pt}{20pt}
 
 \titleformat{\section}
-{\bfseries}{\thesection}{1em}{}
+{\large\bfseries}{\thesection}{1em}{\large}
 
 \titleformat{\subsection}
-{\normalfont\bfseries\itshape}{\thesubsection}{1em}{}
+{\normalfont\large\bfseries\itshape}{\thesubsection}{1em}{}
 
 \titleformat{\subsubsection}
-{\normalfont\itshape}{\thesubsubsection}{1em}{}
+{\normalfont\large\itshape}{\thesubsubsection}{1em}{}
 
 \captionsetup[figure]{
 	font=it, % Italic font
 	singlelinecheck=true, % Allow multi-line captions to be centered
 	justification=centering, % Center the caption text
+	size=large, % Set the font size to large	
 }
 
 \renewcommand{\contentsname}{TABLE DES MATIÈRES}

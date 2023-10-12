@@ -9,6 +9,8 @@
 \contentsline {section}{\numberline {0.4}Méthodes et techniques}{3}{}%
 \contentsline {subsection}{\numberline {0.4.1}Méthodes}{3}{}%
 \contentsline {subsection}{\numberline {0.4.2}Techniques}{3}{}%
+\contentsline {subsubsection}{\numberline {0.4.2.1}La technique documentaire}{3}{}%
+\contentsline {subsubsection}{\numberline {0.4.2.2}La technique d’interview}{3}{}%
 \contentsline {subsection}{\numberline {0.4.3}État de l'art}{4}{}%
 \contentsline {subsection}{\numberline {0.4.4}Délimitation du travail}{5}{}%
 \contentsline {subsection}{\numberline {0.4.5}Subdivision du travail}{5}{}%
@@ -62,7 +64,7 @@
 \contentsline {subsection}{\numberline {2.4.3}Diagramme d’activité}{38}{}%
 \contentsline {subsubsection}{\numberline {2.4.3.1}Activité utilisateur}{39}{}%
 \contentsline {subsubsection}{\numberline {2.4.3.2}Activité administrateur}{40}{}%
-\contentsline {subsubsection}{\numberline {2.4.3.3}Modèle de domaine}{41}{}%
+\contentsline {subsection}{\numberline {2.4.4}Modèle de domaine}{41}{}%
 \contentsline {section}{\numberline {2.5}Modélisation de la base de donnes NoSQL orientée document}{41}{}%
 \contentsline {subsection}{\numberline {2.5.1}Règles de mappage pour une base de donnée orientée document}{42}{}%
 \contentsline {subsubsection}{\numberline {2.5.1.1}Relation par référence}{42}{}%
@@ -71,22 +73,23 @@
 \contentsline {section}{\numberline {2.6}Conclusion partielle}{43}{}%
 \contentsline {chapter}{\numberline {3}PROCESSUS ET IMPLÉMENTATION}{44}{}%
 \contentsline {section}{\numberline {3.1}Introduction}{44}{}%
-\contentsline {subsection}{\numberline {3.1.1}Présentation de l'architecture physique}{44}{}%
-\contentsline {section}{\numberline {3.2}Technologies utilisées}{45}{}%
-\contentsline {subsection}{\numberline {3.2.1}Kotlin}{45}{}%
-\contentsline {subsection}{\numberline {3.2.2}TensorFlow lite}{45}{}%
-\contentsline {subsection}{\numberline {3.2.3}Mediapipe}{45}{}%
-\contentsline {subsection}{\numberline {3.2.4}Yamnet}{46}{}%
-\contentsline {subsection}{\numberline {3.2.5}Firebase}{46}{}%
-\contentsline {subsection}{\numberline {3.2.6}Angular}{46}{}%
-\contentsline {subsection}{\numberline {3.2.7}Android Studio}{46}{}%
-\contentsline {section}{\numberline {3.3}Diagramme de déploiement}{47}{}%
-\contentsline {section}{\numberline {3.4}Expérience utilisateur et fonctionnement}{48}{}%
-\contentsline {subsection}{\numberline {3.4.1}Expérience utilisateur}{48}{}%
-\contentsline {subsection}{\numberline {3.4.2}Fonctionnement}{48}{}%
-\contentsline {section}{\numberline {3.5}Captures d’écrans}{54}{}%
-\contentsline {subsection}{\numberline {3.5.1}Client mobile pour utilisateur}{54}{}%
-\contentsline {section}{\numberline {3.6}Difficultés rencontrées}{64}{}%
-\contentsline {section}{\numberline {3.7} Conclusion partielle}{65}{}%
+\contentsline {section}{\numberline {3.2}Présentation de l'architecture physique}{44}{}%
+\contentsline {section}{\numberline {3.3}Technologies utilisées}{45}{}%
+\contentsline {subsection}{\numberline {3.3.1}Kotlin}{45}{}%
+\contentsline {subsection}{\numberline {3.3.2}TensorFlow lite}{45}{}%
+\contentsline {subsection}{\numberline {3.3.3}Mediapipe}{45}{}%
+\contentsline {subsection}{\numberline {3.3.4}Yamnet}{46}{}%
+\contentsline {subsection}{\numberline {3.3.5}Firebase}{46}{}%
+\contentsline {subsection}{\numberline {3.3.6}Angular}{46}{}%
+\contentsline {subsection}{\numberline {3.3.7}Android Studio}{46}{}%
+\contentsline {section}{\numberline {3.4}Diagramme de déploiement}{47}{}%
+\contentsline {section}{\numberline {3.5}Expérience utilisateur et fonctionnement}{48}{}%
+\contentsline {subsection}{\numberline {3.5.1}Expérience utilisateur}{48}{}%
+\contentsline {subsection}{\numberline {3.5.2}Fonctionnement}{48}{}%
+\contentsline {section}{\numberline {3.6}Captures d’écrans}{54}{}%
+\contentsline {subsection}{\numberline {3.6.1}Client mobile pour utilisateur}{54}{}%
+\contentsline {subsection}{\numberline {3.6.2}Client web pour administrateur}{63}{}%
+\contentsline {section}{\numberline {3.7}Difficultés rencontrées}{64}{}%
+\contentsline {section}{\numberline {3.8} Conclusion partielle}{65}{}%
 \contentsline {chapter}{CONCLUSION GÉNÉRALE}{66}{}%
 \contentsfinish 

@@ -59,9 +59,9 @@ La conception d’un système exige de connaître les besoins des utilisateurs c
 	\item L’utilisateur peut consulter la liste de ses contacts.
 	\item L’utilisateur peut modifier les contacts qu’il a ajoutés
 	\item L’utilisateur peut supprimer des contacts parmi les contacts qu’il a ajoutés
-	\item L’utilisateur peut envoyer une alerte
-	\item L’administrateur peut consulter les alertes actives de tous les utilisateurs
-	\item L’administrateur peut retransmettre les alertes aux contacts de l’utilisateur ou a un centre de sécurité
+	\item L'utilisateur peut envoyer des alertes sans manipuler l'écran de son smartphone
+	\item L’administrateur peut consulter les alertes émises par les utilisateurs
+	\item L'application doit être capable de fonctionner en mode hors ligne.
 \end{enumerate}
 
 \subsection{Besoins non fonctionnels}
@@ -299,7 +299,6 @@ Dans le cadre de notre travail de fin de cycle (TFC), le diagramme de cas d'util
 		\item Acteurs :
 		\begin{itemize}
 			\item Acteur principal : Utilisateur
-			\item Acteur secondaire : Service de messagerie
 		\end{itemize}
 		\item Précondition : Activer tracking
 		\item Scenario nominal :
@@ -366,43 +365,43 @@ Dans le cadre de notre travail, le diagramme de séquence nous permet de modéli
 
 \subsubsection{S'authentifier}
 \begin{figure}[H]
-	\includegraphics[width=\textwidth]{s_authentifier}
+	\includegraphics[width=300px]{s_authentifier}
 	\caption{Diagramme de séquence S’authentifier}
 \end{figure}
 
 \subsubsection{Consulter contacts}
 \begin{figure}[H]
-	\includegraphics{consulter_contacts}
+	\includegraphics[width=200px]{consulter_contacts}
 	\caption{Diagramme de séquence Consulter contacts}
 \end{figure}
 
 \subsubsection{Ajouter contact}
 \begin{figure}[H]
-	\includegraphics[width=\textwidth]{ajouter_contact.png}
+	\includegraphics[width=300px]{ajouter_contact.png}
 	\caption{Diagramme de séquence Ajouter contact}
 \end{figure}
 
 \subsubsection{Supprimer contact}
 \begin{figure}[H]
-	\includegraphics{supprimer_contact}
+	\includegraphics[width=250px]{supprimer_contact}
 	\caption{Diagramme de séquence Supprimer contact}
 \end{figure}
 
 \subsubsection{Modifier contact}
 \begin{figure}[H]
-	\includegraphics[width=\textwidth]{modifier_contact.png}
+	\includegraphics[width=300px]{modifier_contact.png}
 	\caption{Diagramme de séquence Modifier contact}
 \end{figure}
 
 \subsubsection{Activer tracking}
 \begin{figure}[H]
-	\includegraphics{activer_tracking}
+	\includegraphics[width=180px]{activer_tracking}
 	\caption{Diagramme de séquence Activer tracking}
 \end{figure}
 
 \subsubsection{Désactiver tracking}
 \begin{figure}[H]
-	\includegraphics{desactiver_tracking.png}
+	\includegraphics[width=180px]{desactiver_tracking}
 	\caption{Diagramme de séquence Désactiver tracking}
 \end{figure}
 
@@ -414,13 +413,13 @@ Dans le cadre de notre travail, le diagramme de séquence nous permet de modéli
 
 \subsubsection{Consulter alertes}
 \begin{figure}[H]
-	\includegraphics{consulter_alertes}
+	\includegraphics[width=240px]{consulter_alertes}
 	\caption{Diagramme de séquence Consulter alertes}
 \end{figure}
 
 \subsubsection{Voir détails alertes}
 \begin{figure}[H]
-	\includegraphics{voir_details_alerte}
+	\includegraphics[width=260px]{voir_details_alerte}
 	\caption{Diagramme de séquence Voir détails alertes}
 \end{figure}
 
@@ -435,7 +434,7 @@ le diagramme d'activité quant à lui nous permet de modéliser visuellement les
 
 \subsubsection{Activité administrateur}
 \begin{figure}[H]
-	\includegraphics{activity_admin}
+	\includegraphics[height=400px]{activity_admin}
 	\caption{Diagramme d’activité administrateur}
 \end{figure}
 

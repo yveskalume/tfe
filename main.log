@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.8.22)  13 OCT 2023 11:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.8.22)  19 OCT 2023 22:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -833,12 +833,12 @@ File: ./images//gps2d.png Graphic file (type png)
 <use ./images//gps2d.png>
 Package pdftex.def Info: ./images//gps2d.png  used on input line 115.
 (pdftex.def)             Requested size: 323.77461pt x 340.39587pt.
-<./images//icegeoalert.jpg, id=97, 513.92pt x 456.70625pt>
-File: ./images//icegeoalert.jpg Graphic file (type jpg)
-<use ./images//icegeoalert.jpg>
-Package pdftex.def Info: ./images//icegeoalert.jpg  used on input line 128.
-(pdftex.def)             Requested size: 426.79135pt x 379.28212pt.
- [13 <./images//gps2d.png>] [14 <./images//icegeoalert.jpg>]
+<./images//icegeoalert.png, id=97, 1084.05pt x 2417.03pt>
+File: ./images//icegeoalert.png Graphic file (type png)
+<use ./images//icegeoalert.png>
+Package pdftex.def Info: ./images//icegeoalert.png  used on input line 128.
+(pdftex.def)             Requested size: 157.5554pt x 351.31378pt.
+ [13 <./images//gps2d.png>] [14 <./images//icegeoalert.png>]
 <./images//sorority.jpg, id=105, 235.88126pt x 499.8675pt>
 File: ./images//sorority.jpg Graphic file (type jpg)
 <use ./images//sorority.jpg>
@@ -883,125 +883,124 @@ Underfull \hbox (badness 7486) in paragraph at lines 31--32
  []
 
 [20 <./images//dsdm.png>] [21]
-<./images//usecase.png, id=129, 828.09375pt x 424.58624pt>
+<./images//usecase.png, id=129, 719.68875pt x 727.71875pt>
 File: ./images//usecase.png Graphic file (type png)
 <use ./images//usecase.png>
 Package pdftex.def Info: ./images//usecase.png  used on input line 86.
-(pdftex.def)             Requested size: 426.79135pt x 218.82956pt.
- [22] [23 <./images//usecase.png (PNG copy)>]
-[24] [25] [26] [27]
-<./images//s_authentifier.png, id=149, 442.65375pt x 576.1525pt>
+(pdftex.def)             Requested size: 426.79135pt x 431.57115pt.
+ [22] [23 <./images//usecase.png>] [24] [25]
+[26] [27] [28]
+<./images//s_authentifier.png, id=153, 442.65375pt x 576.1525pt>
 File: ./images//s_authentifier.png Graphic file (type png)
 <use ./images//s_authentifier.png>
-Package pdftex.def Info: ./images//s_authentifier.png  used on input line 369.
-(pdftex.def)             Requested size: 426.79135pt x 555.53531pt.
- [28]
-<./images//consulter_contacts.png, id=153, 309.155pt x 284.06125pt>
+Package pdftex.def Info: ./images//s_authentifier.png  used on input line 368.
+(pdftex.def)             Requested size: 301.1261pt x 391.96312pt.
+ [29]
+<./images//consulter_contacts.png, id=158, 309.155pt x 284.06125pt>
 File: ./images//consulter_contacts.png Graphic file (type png)
 <use ./images//consulter_contacts.png>
 Package pdftex.def Info: ./images//consulter_contacts.png  used on input line 3
-75.
-(pdftex.def)             Requested size: 309.15424pt x 284.06053pt.
- [29 <./images//s_authentifier.png (PNG copy)>]
-<./images//ajouter_contact.png, id=158, 515.9275pt x 502.87875pt>
+74.
+(pdftex.def)             Requested size: 200.75073pt x 184.4599pt.
+ [30 <./images//s_authentifier.png (PNG copy)>]
+<./images//ajouter_contact.png, id=162, 515.9275pt x 502.87875pt>
 File: ./images//ajouter_contact.png Graphic file (type png)
 <use ./images//ajouter_contact.png>
-Package pdftex.def Info: ./images//ajouter_contact.png  used on input line 381.
+Package pdftex.def Info: ./images//ajouter_contact.png  used on input line 380.
 
-(pdftex.def)             Requested size: 426.79135pt x 416.00806pt.
-
-[30 <./images//consulter_contacts.png (PNG copy)>]
-<./images//supprimer_contact.png, id=162, 368.37625pt x 446.66875pt>
+(pdftex.def)             Requested size: 301.1261pt x 293.51913pt.
+<./images//supprimer_contact.png, id=163, 368.37625pt x 446.66875pt>
 File: ./images//supprimer_contact.png Graphic file (type png)
 <use ./images//supprimer_contact.png>
 Package pdftex.def Info: ./images//supprimer_contact.png  used on input line 38
-7.
-(pdftex.def)             Requested size: 368.37534pt x 446.66765pt.
- [31 <./images//ajouter_contact.png (PNG copy)>]
-<./images//modifier_contact.png, id=166, 482.80376pt x 576.1525pt>
+6.
+(pdftex.def)             Requested size: 250.93842pt x 304.26915pt.
+ [31 <./images//consulter_contacts.png (PNG copy)> <./images//ajouter_contact.p
+ng (PNG copy)>]
+<./images//modifier_contact.png, id=167, 482.80376pt x 576.1525pt>
 File: ./images//modifier_contact.png Graphic file (type png)
 <use ./images//modifier_contact.png>
-Package pdftex.def Info: ./images//modifier_contact.png  used on input line 393
+Package pdftex.def Info: ./images//modifier_contact.png  used on input line 392
 .
-(pdftex.def)             Requested size: 426.79135pt x 509.32788pt.
+(pdftex.def)             Requested size: 301.1261pt x 359.35594pt.
  [32 <./images//supprimer_contact.png (PNG copy)>]
-<./images//activer_tracking.png, id=170, 226.8475pt x 284.06125pt>
+<./images//activer_tracking.png, id=171, 226.8475pt x 284.06125pt>
 File: ./images//activer_tracking.png Graphic file (type png)
 <use ./images//activer_tracking.png>
-Package pdftex.def Info: ./images//activer_tracking.png  used on input line 399
+Package pdftex.def Info: ./images//activer_tracking.png  used on input line 398
 .
-(pdftex.def)             Requested size: 226.84694pt x 284.06053pt.
+(pdftex.def)             Requested size: 180.67566pt x 226.2437pt.
  [33 <./images//modifier_contact.png (PNG copy)>]
-<./images//desactiver_tracking.png, id=174, 250.9375pt x 284.06125pt>
+<./images//desactiver_tracking.png, id=175, 250.9375pt x 284.06125pt>
 File: ./images//desactiver_tracking.png Graphic file (type png)
 <use ./images//desactiver_tracking.png>
 Package pdftex.def Info: ./images//desactiver_tracking.png  used on input line 
-405.
-(pdftex.def)             Requested size: 250.93687pt x 284.06053pt.
- [34 <./images//activer_tracking.png (PNG copy)>]
-<./images//envoyer_alerte.png, id=178, 658.46pt x 601.24625pt>
+404.
+(pdftex.def)             Requested size: 180.67566pt x 204.53693pt.
+<./images//envoyer_alerte.png, id=176, 658.46pt x 601.24625pt>
 File: ./images//envoyer_alerte.png Graphic file (type png)
 <use ./images//envoyer_alerte.png>
-Package pdftex.def Info: ./images//envoyer_alerte.png  used on input line 411.
+Package pdftex.def Info: ./images//envoyer_alerte.png  used on input line 410.
 (pdftex.def)             Requested size: 426.79135pt x 389.71368pt.
- [35 <./images//desactiver_tracking.png (PNG copy)>]
-<./images//consulter_alertes.png, id=183, 333.245pt x 284.06125pt>
+ [34 <./images//activer_tracking.png (PNG copy)> <./images//desactiver_tracking
+.png (PNG copy)>]
+<./images//consulter_alertes.png, id=180, 333.245pt x 284.06125pt>
 File: ./images//consulter_alertes.png Graphic file (type png)
 <use ./images//consulter_alertes.png>
 Package pdftex.def Info: ./images//consulter_alertes.png  used on input line 41
-7.
-(pdftex.def)             Requested size: 333.24417pt x 284.06053pt.
- [36 <./images//envoyer_alerte.png (PNG copy)>]
-<./images//voir_details_alerte.png, id=188, 402.50375pt x 284.06125pt>
+6.
+(pdftex.def)             Requested size: 240.90088pt x 205.35179pt.
+ [35 <./images//envoyer_alerte.png (PNG copy)>]
+<./images//voir_details_alerte.png, id=185, 402.50375pt x 284.06125pt>
 File: ./images//voir_details_alerte.png Graphic file (type png)
 <use ./images//voir_details_alerte.png>
 Package pdftex.def Info: ./images//voir_details_alerte.png  used on input line 
-423.
-(pdftex.def)             Requested size: 402.50276pt x 284.06053pt.
- [37 <./images//consulter_alertes.png (PNG copy)>]
-<./images//activity_user.png, id=192, 888.31876pt x 946.53625pt>
+422.
+(pdftex.def)             Requested size: 260.97595pt x 184.17816pt.
+<./images//activity_user.png, id=186, 888.31876pt x 946.53625pt>
 File: ./images//activity_user.png Graphic file (type png)
 <use ./images//activity_user.png>
-Package pdftex.def Info: ./images//activity_user.png  used on input line 432.
+Package pdftex.def Info: ./images//activity_user.png  used on input line 431.
 (pdftex.def)             Requested size: 426.79135pt x 454.75108pt.
-[38 <./images//voir_details_alerte.png (PNG copy)>]
-<./images//activity_admin.png, id=196, 162.6075pt x 513.92pt>
+ [36 <./images//consulter_alertes.png (PNG copy)> <./images//voir_details_alert
+e.png (PNG copy)>]
+<./images//activity_admin.png, id=191, 190.7125pt x 503.8825pt>
 File: ./images//activity_admin.png Graphic file (type png)
 <use ./images//activity_admin.png>
-Package pdftex.def Info: ./images//activity_admin.png  used on input line 438.
-(pdftex.def)             Requested size: 162.6071pt x 513.91873pt.
- [39 <./images//activity_user.png>]
-<./images//domain.png, id=201, 513.92pt x 386.44376pt>
+Package pdftex.def Info: ./images//activity_admin.png  used on input line 437.
+(pdftex.def)             Requested size: 151.96199pt x 401.50146pt.
+ [37 <./images//activity_user.png>]
+<./images//domain.png, id=196, 718.685pt x 502.87875pt>
 File: ./images//domain.png Graphic file (type png)
 <use ./images//domain.png>
-Package pdftex.def Info: ./images//domain.png  used on input line 444.
-(pdftex.def)             Requested size: 426.79135pt x 320.93103pt.
- [40 <./images//activity_admin.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 449--450
+Package pdftex.def Info: ./images//domain.png  used on input line 443.
+(pdftex.def)             Requested size: 426.79135pt x 298.6449pt.
+ [38 <./images//activity_admin.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 448--449
 
  []
 
-[41 <./images//domain.png>]
-<./images//doc_user.png, id=211, 306.14375pt x 476.78125pt>
+[39 <./images//domain.png>]
+<./images//doc_user.png, id=205, 306.14375pt x 476.78125pt>
 File: ./images//doc_user.png Graphic file (type png)
 <use ./images//doc_user.png>
-Package pdftex.def Info: ./images//doc_user.png  used on input line 464.
+Package pdftex.def Info: ./images//doc_user.png  used on input line 463.
 (pdftex.def)             Requested size: 161.16231pt x 250.13202pt.
-<./images//doc_alert.png, id=212, 369.38pt x 544.0325pt>
+<./images//doc_alert.png, id=206, 369.38pt x 544.0325pt>
 File: ./images//doc_alert.png Graphic file (type png)
 <use ./images//doc_alert.png>
-Package pdftex.def Info: ./images//doc_alert.png  used on input line 470.
+Package pdftex.def Info: ./images//doc_alert.png  used on input line 469.
 (pdftex.def)             Requested size: 161.15808pt x 250.13347pt.
- [42 <./images//doc_user.png>]) [43 <./images//doc_alert.png>]
+ [40 <./images//doc_user.png>]) [41 <./images//doc_alert.png>]
 \openout2 = `./chapitres/chap3.aux'.
 
  (./chapitres/chap3.tex
 Chapter 3.
-<./images//architecture.png, id=221, 513.92pt x 237.88875pt>
+<./images//architecture.png, id=216, 788.9475pt x 352.31625pt>
 File: ./images//architecture.png Graphic file (type png)
 <use ./images//architecture.png>
 Package pdftex.def Info: ./images//architecture.png  used on input line 25.
-(pdftex.def)             Requested size: 426.79135pt x 197.56012pt.
+(pdftex.def)             Requested size: 426.79135pt x 190.58661pt.
 
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
 less on input line 28.
@@ -1014,118 +1013,118 @@ less on input line 28.
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
 less on input line 28.
 
-[44
+[42
 
 
 
 
-] [45 <./images//architecture.png>]
-<./images//deploiement.png, id=229, 269.005pt x 513.92pt>
+] [43 <./images//architecture.png>]
+<./images//deploiement.png, id=224, 422.57875pt x 684.5575pt>
 File: ./images//deploiement.png Graphic file (type png)
 <use ./images//deploiement.png>
 Package pdftex.def Info: ./images//deploiement.png  used on input line 55.
-(pdftex.def)             Requested size: 269.00433pt x 513.91873pt.
- [46]
+(pdftex.def)             Requested size: 309.81465pt x 501.87683pt.
+ [44]
 Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
  []
 
-[47 <./images//deploiement.png>]
-<./images//fonctionnement.png, id=238, 513.92pt x 295.1025pt>
+[45 <./images//deploiement.png>]
+<./images//fonctionnement.png, id=232, 808.01875pt x 453.695pt>
 File: ./images//fonctionnement.png Graphic file (type png)
 <use ./images//fonctionnement.png>
 Package pdftex.def Info: ./images//fonctionnement.png  used on input line 75.
-(pdftex.def)             Requested size: 426.79135pt x 245.07458pt.
- [48]
-<./images//code_permission.png, id=242, 691.58376pt x 470.75874pt>
+(pdftex.def)             Requested size: 426.79135pt x 239.6403pt.
+ [46]
+<./images//code_permission.png, id=236, 691.58376pt x 470.75874pt>
 File: ./images//code_permission.png Graphic file (type png)
 <use ./images//code_permission.png>
 Package pdftex.def Info: ./images//code_permission.png  used on input line 81.
 (pdftex.def)             Requested size: 426.79135pt x 290.51697pt.
-<./images//code_location.png, id=243, 954.56625pt x 684.5575pt>
+<./images//code_location.png, id=237, 954.56625pt x 684.5575pt>
 File: ./images//code_location.png Graphic file (type png)
 <use ./images//code_location.png>
 Package pdftex.def Info: ./images//code_location.png  used on input line 87.
 (pdftex.def)             Requested size: 426.79135pt x 306.06337pt.
- [49 <./images//fonctionnement.png> <./images//code_permission.png>]
-<./images//code_classification.png, id=249, 1109.14375pt x 870.25125pt>
+ [47 <./images//fonctionnement.png> <./images//code_permission.png>]
+<./images//code_classification.png, id=244, 1109.14375pt x 870.25125pt>
 File: ./images//code_classification.png Graphic file (type png)
 <use ./images//code_classification.png>
 Package pdftex.def Info: ./images//code_classification.png  used on input line 
 93.
 (pdftex.def)             Requested size: 426.79135pt x 334.8685pt.
- [50 <./images//code_location.png>]
-<./images//code_detection.png, id=254, 787.94376pt x 762.85pt>
+ [48 <./images//code_location.png>]
+<./images//code_detection.png, id=249, 787.94376pt x 762.85pt>
 File: ./images//code_detection.png Graphic file (type png)
 <use ./images//code_detection.png>
 Package pdftex.def Info: ./images//code_detection.png  used on input line 99.
 (pdftex.def)             Requested size: 426.79135pt x 413.19pt.
- [51 <./images//code_classification.png>]
-<./images//code_envoi_alerte.png, id=259, 985.6825pt x 769.87625pt>
+ [49 <./images//code_classification.png>]
+<./images//code_envoi_alerte.png, id=254, 985.6825pt x 769.87625pt>
 File: ./images//code_envoi_alerte.png Graphic file (type png)
 <use ./images//code_envoi_alerte.png>
 Package pdftex.def Info: ./images//code_envoi_alerte.png  used on input line 10
 5.
 (pdftex.def)             Requested size: 426.79135pt x 333.35457pt.
- [52 <./images//code_detection.png>]
-<./images//phone.png, id=264, 1084.05pt x 2417.03pt>
+ [50 <./images//code_detection.png>]
+<./images//phone.png, id=259, 1084.05pt x 2417.03pt>
 File: ./images//phone.png Graphic file (type png)
 <use ./images//phone.png>
 Package pdftex.def Info: ./images//phone.png  used on input line 114.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
- [53 <./images//code_envoi_alerte.png>]
-<./images//otp.png, id=270, 1084.05pt x 2417.03pt>
+ [51 <./images//code_envoi_alerte.png>]
+<./images//otp.png, id=264, 1084.05pt x 2417.03pt>
 File: ./images//otp.png Graphic file (type png)
 <use ./images//otp.png>
 Package pdftex.def Info: ./images//otp.png  used on input line 120.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
- [54 <./images//phone.png>]
-<./images//profile.png, id=274, 1084.05pt x 2417.03pt>
+ [52 <./images//phone.png>]
+<./images//profile.png, id=268, 1084.05pt x 2417.03pt>
 File: ./images//profile.png Graphic file (type png)
 <use ./images//profile.png>
 Package pdftex.def Info: ./images//profile.png  used on input line 126.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
- [55 <./images//otp.png>]
-<./images//home.png, id=278, 1084.05pt x 2417.03pt>
+ [53 <./images//otp.png>]
+<./images//home.png, id=273, 1084.05pt x 2417.03pt>
 File: ./images//home.png Graphic file (type png)
 <use ./images//home.png>
 Package pdftex.def Info: ./images//home.png  used on input line 132.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
 
-[56 <./images//profile.png>]
-<./images//add_contact.png, id=282, 1084.05pt x 2417.03pt>
+[54 <./images//profile.png>]
+<./images//add_contact.png, id=277, 1084.05pt x 2417.03pt>
 File: ./images//add_contact.png Graphic file (type png)
 <use ./images//add_contact.png>
 Package pdftex.def Info: ./images//add_contact.png  used on input line 138.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
- [57 <./images//home.png>]
-<./images//trackingenabled.png, id=286, 1084.05pt x 2417.03pt>
+ [55 <./images//home.png>]
+<./images//trackingenabled.png, id=281, 1084.05pt x 2417.03pt>
 File: ./images//trackingenabled.png Graphic file (type png)
 <use ./images//trackingenabled.png>
 Package pdftex.def Info: ./images//trackingenabled.png  used on input line 144.
 
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
- [58 <./images//add_contact.png>]
-<./images//foreground.png, id=290, 1084.05pt x 2417.03pt>
+ [56 <./images//add_contact.png>]
+<./images//foreground.png, id=285, 1084.05pt x 2417.03pt>
 File: ./images//foreground.png Graphic file (type png)
 <use ./images//foreground.png>
 Package pdftex.def Info: ./images//foreground.png  used on input line 150.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
- [59 <./images//trackingenabled.png>]
-<./images//sendingalerts.png, id=295, 1084.05pt x 2417.03pt>
+ [57 <./images//trackingenabled.png>]
+<./images//sendingalerts.png, id=289, 1084.05pt x 2417.03pt>
 File: ./images//sendingalerts.png Graphic file (type png)
 <use ./images//sendingalerts.png>
 Package pdftex.def Info: ./images//sendingalerts.png  used on input line 156.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
- [60 <./images//foreground.png>]
-<./images//sms.png, id=299, 1084.05pt x 2417.03pt>
+ [58 <./images//foreground.png>]
+<./images//sms.png, id=293, 1084.05pt x 2417.03pt>
 File: ./images//sms.png Graphic file (type png)
 <use ./images//sms.png>
 Package pdftex.def Info: ./images//sms.png  used on input line 162.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
 
-[61 <./images//sendingalerts.png>]
-<./images//admin_auth.png, id=303, 1927.2pt x 977.6525pt>
+[59 <./images//sendingalerts.png>]
+<./images//admin_auth.png, id=298, 1927.2pt x 977.6525pt>
 File: ./images//admin_auth.png Graphic file (type png)
 <use ./images//admin_auth.png>
 Package pdftex.def Info: ./images//admin_auth.png  used on input line 170.
@@ -1135,8 +1134,8 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 170--171
  [][] 
  []
 
-[62 <./images//sms.png>]
-<./images//admin_home.png, id=307, 1927.2pt x 977.6525pt>
+[60 <./images//sms.png>]
+<./images//admin_home.png, id=302, 1927.2pt x 977.6525pt>
 File: ./images//admin_home.png Graphic file (type png)
 <use ./images//admin_home.png>
 Package pdftex.def Info: ./images//admin_home.png  used on input line 176.
@@ -1146,7 +1145,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 176--177
  [][] 
  []
 
-<./images//admin_details.png, id=308, 1927.2pt x 977.6525pt>
+<./images//admin_details.png, id=303, 1927.2pt x 977.6525pt>
 File: ./images//admin_details.png Graphic file (type png)
 <use ./images//admin_details.png>
 Package pdftex.def Info: ./images//admin_details.png  used on input line 182.
@@ -1156,12 +1155,12 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 182--183
  [][] 
  []
 
-[63 <./images//admin_auth.png> <./images//admin_home.png>]
+[61 <./images//admin_auth.png> <./images//admin_home.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 199--200
 
  []
 
-[64 <./images//admin_details.png>]) [65]
+[62 <./images//admin_details.png>]) [63]
 \openout2 = `./chapitres/conclusion.aux'.
 
  (./chapitres/conclusion.tex
@@ -1192,7 +1191,7 @@ less on input line 99.
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
 less on input line 99.
 
-[66
+[64
 
 
 
@@ -1217,7 +1216,7 @@ less on input line 95.
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
 less on input line 95.
 
-[67
+[65
 
 
 
@@ -1228,20 +1227,20 @@ Underfull \hbox (badness 2088) in paragraph at lines 97--100
 :
  []
 
-)) [68] (./main.aux (./page-de-garde.aux) (./chapitres/epigraphe.aux)
+)) [66] (./main.aux (./page-de-garde.aux) (./chapitres/epigraphe.aux)
 (./chapitres/dedicace.aux) (./chapitres/remerciement.aux)
 (./chapitres/acronyme.aux) (./chapitres/avant-propos.aux)
 (./chapitres/introduction.aux) (./chapitres/chap1.aux) (./chapitres/chap2.aux)
 (./chapitres/chap3.aux) (./chapitres/conclusion.aux)
 (./chapitres/bibliographie.aux)) ) 
 Here is how much of TeX's memory you used:
- 7293 strings out of 480247
- 138247 string characters out of 5896151
- 413508 words of memory out of 5000000
- 25025 multiletter control sequences out of 15000+600000
+ 7294 strings out of 480247
+ 138294 string characters out of 5896151
+ 414508 words of memory out of 5000000
+ 25027 multiletter control sequences out of 15000+600000
  489610 words of font info for 64 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,12n,70p,1422b,584s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,70p,1422b,592s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/yv/.texlive2021/texmf-var/fonts/pk/lj
 four/jknappen/ec/tcti1200.600pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/
 base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy
@@ -1249,10 +1248,10 @@ base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy
 are/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (82 pages, 2559016 bytes).
+Output written on main.pdf (80 pages, 3626946 bytes).
 PDF statistics:
- 364 PDF objects out of 1000 (max. 8388607)
- 204 compressed objects within 3 object streams
+ 358 PDF objects out of 1000 (max. 8388607)
+ 200 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  216 words of extra memory for PDF output out of 10000 (max. 10000000)
 

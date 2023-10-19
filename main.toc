@@ -48,48 +48,48 @@
 \contentsline {section}{\numberline {2.3}Identification des acteurs}{22}{}%
 \contentsline {section}{\numberline {2.4}Diagrammes}{22}{}%
 \contentsline {subsection}{\numberline {2.4.1}Diagramme de cas d’utilisation}{22}{}%
-\contentsline {subsubsection}{\numberline {2.4.1.1}Classification des cas d’utilisation}{23}{}%
-\contentsline {subsubsection}{\numberline {2.4.1.2}Descriptions textuelles des cas d’utilisation}{23}{}%
-\contentsline {subsection}{\numberline {2.4.2}Diagrammes de séquence}{28}{}%
-\contentsline {subsubsection}{\numberline {2.4.2.1}S'authentifier}{29}{}%
-\contentsline {subsubsection}{\numberline {2.4.2.2}Consulter contacts}{30}{}%
+\contentsline {subsubsection}{\numberline {2.4.1.1}Classification des cas d’utilisation}{24}{}%
+\contentsline {subsubsection}{\numberline {2.4.1.2}Descriptions textuelles des cas d’utilisation}{24}{}%
+\contentsline {subsection}{\numberline {2.4.2}Diagrammes de séquence}{29}{}%
+\contentsline {subsubsection}{\numberline {2.4.2.1}S'authentifier}{30}{}%
+\contentsline {subsubsection}{\numberline {2.4.2.2}Consulter contacts}{31}{}%
 \contentsline {subsubsection}{\numberline {2.4.2.3}Ajouter contact}{31}{}%
 \contentsline {subsubsection}{\numberline {2.4.2.4}Supprimer contact}{32}{}%
 \contentsline {subsubsection}{\numberline {2.4.2.5}Modifier contact}{33}{}%
 \contentsline {subsubsection}{\numberline {2.4.2.6}Activer tracking}{34}{}%
-\contentsline {subsubsection}{\numberline {2.4.2.7}Désactiver tracking}{35}{}%
-\contentsline {subsubsection}{\numberline {2.4.2.8}Envoyer alerte}{36}{}%
-\contentsline {subsubsection}{\numberline {2.4.2.9}Consulter alertes}{37}{}%
-\contentsline {subsubsection}{\numberline {2.4.2.10}Voir détails alertes}{38}{}%
-\contentsline {subsection}{\numberline {2.4.3}Diagramme d’activité}{38}{}%
-\contentsline {subsubsection}{\numberline {2.4.3.1}Activité utilisateur}{39}{}%
-\contentsline {subsubsection}{\numberline {2.4.3.2}Activité administrateur}{40}{}%
-\contentsline {subsection}{\numberline {2.4.4}Modèle de domaine}{41}{}%
-\contentsline {section}{\numberline {2.5}Modélisation de la base de donnes NoSQL orientée document}{41}{}%
-\contentsline {subsection}{\numberline {2.5.1}Règles de mappage pour une base de donnée orientée document}{42}{}%
-\contentsline {subsubsection}{\numberline {2.5.1.1}Relation par référence}{42}{}%
-\contentsline {subsubsection}{\numberline {2.5.1.2}Documents imbriqués}{42}{}%
-\contentsline {subsection}{\numberline {2.5.2}Modèle non relationnel}{42}{}%
-\contentsline {section}{\numberline {2.6}Conclusion partielle}{43}{}%
-\contentsline {chapter}{\numberline {3}PROCESSUS ET IMPLÉMENTATION}{44}{}%
-\contentsline {section}{\numberline {3.1}Introduction}{44}{}%
-\contentsline {section}{\numberline {3.2}Présentation de l'architecture physique}{44}{}%
-\contentsline {section}{\numberline {3.3}Technologies utilisées}{45}{}%
-\contentsline {subsection}{\numberline {3.3.1}Kotlin}{45}{}%
-\contentsline {subsection}{\numberline {3.3.2}TensorFlow lite}{45}{}%
-\contentsline {subsection}{\numberline {3.3.3}Mediapipe}{45}{}%
-\contentsline {subsection}{\numberline {3.3.4}Yamnet}{46}{}%
-\contentsline {subsection}{\numberline {3.3.5}Firebase}{46}{}%
-\contentsline {subsection}{\numberline {3.3.6}Angular}{46}{}%
-\contentsline {subsection}{\numberline {3.3.7}Android Studio}{46}{}%
-\contentsline {section}{\numberline {3.4}Diagramme de déploiement}{47}{}%
-\contentsline {section}{\numberline {3.5}Expérience utilisateur et fonctionnement}{48}{}%
-\contentsline {subsection}{\numberline {3.5.1}Expérience utilisateur}{48}{}%
-\contentsline {subsection}{\numberline {3.5.2}Fonctionnement}{48}{}%
-\contentsline {section}{\numberline {3.6}Captures d’écrans}{54}{}%
-\contentsline {subsection}{\numberline {3.6.1}Client mobile pour utilisateur}{54}{}%
-\contentsline {subsection}{\numberline {3.6.2}Client web pour administrateur}{63}{}%
-\contentsline {section}{\numberline {3.7}Difficultés rencontrées}{64}{}%
-\contentsline {section}{\numberline {3.8} Conclusion partielle}{65}{}%
-\contentsline {chapter}{CONCLUSION GÉNÉRALE}{66}{}%
+\contentsline {subsubsection}{\numberline {2.4.2.7}Désactiver tracking}{34}{}%
+\contentsline {subsubsection}{\numberline {2.4.2.8}Envoyer alerte}{35}{}%
+\contentsline {subsubsection}{\numberline {2.4.2.9}Consulter alertes}{36}{}%
+\contentsline {subsubsection}{\numberline {2.4.2.10}Voir détails alertes}{36}{}%
+\contentsline {subsection}{\numberline {2.4.3}Diagramme d’activité}{36}{}%
+\contentsline {subsubsection}{\numberline {2.4.3.1}Activité utilisateur}{37}{}%
+\contentsline {subsubsection}{\numberline {2.4.3.2}Activité administrateur}{38}{}%
+\contentsline {subsection}{\numberline {2.4.4}Modèle de domaine}{39}{}%
+\contentsline {section}{\numberline {2.5}Modélisation de la base de donnes NoSQL orientée document}{39}{}%
+\contentsline {subsection}{\numberline {2.5.1}Règles de mappage pour une base de donnée orientée document}{40}{}%
+\contentsline {subsubsection}{\numberline {2.5.1.1}Relation par référence}{40}{}%
+\contentsline {subsubsection}{\numberline {2.5.1.2}Documents imbriqués}{40}{}%
+\contentsline {subsection}{\numberline {2.5.2}Modèle non relationnel}{40}{}%
+\contentsline {section}{\numberline {2.6}Conclusion partielle}{41}{}%
+\contentsline {chapter}{\numberline {3}PROCESSUS ET IMPLÉMENTATION}{42}{}%
+\contentsline {section}{\numberline {3.1}Introduction}{42}{}%
+\contentsline {section}{\numberline {3.2}Présentation de l'architecture physique}{42}{}%
+\contentsline {section}{\numberline {3.3}Technologies utilisées}{43}{}%
+\contentsline {subsection}{\numberline {3.3.1}Kotlin}{43}{}%
+\contentsline {subsection}{\numberline {3.3.2}TensorFlow lite}{43}{}%
+\contentsline {subsection}{\numberline {3.3.3}Mediapipe}{43}{}%
+\contentsline {subsection}{\numberline {3.3.4}Yamnet}{44}{}%
+\contentsline {subsection}{\numberline {3.3.5}Firebase}{44}{}%
+\contentsline {subsection}{\numberline {3.3.6}Angular}{44}{}%
+\contentsline {subsection}{\numberline {3.3.7}Android Studio}{44}{}%
+\contentsline {section}{\numberline {3.4}Diagramme de déploiement}{45}{}%
+\contentsline {section}{\numberline {3.5}Expérience utilisateur et fonctionnement}{45}{}%
+\contentsline {subsection}{\numberline {3.5.1}Expérience utilisateur}{45}{}%
+\contentsline {subsection}{\numberline {3.5.2}Fonctionnement}{46}{}%
+\contentsline {section}{\numberline {3.6}Captures d’écrans}{52}{}%
+\contentsline {subsection}{\numberline {3.6.1}Client mobile pour utilisateur}{52}{}%
+\contentsline {subsection}{\numberline {3.6.2}Client web pour administrateur}{61}{}%
+\contentsline {section}{\numberline {3.7}Difficultés rencontrées}{62}{}%
+\contentsline {section}{\numberline {3.8} Conclusion partielle}{63}{}%
+\contentsline {chapter}{CONCLUSION GÉNÉRALE}{64}{}%
 \contentsfinish 

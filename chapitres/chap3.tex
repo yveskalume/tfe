@@ -32,22 +32,20 @@ Kotlin est un langage de programmation orienté objet, à typage statique, inter
 Il peut être utilisé presque partout où Java est utilisé, pour le développement côté serveur, les applications Android et bien plus encore. Kotlin fonctionne parfaitement avec toutes les et s'exécute avec le même niveau de performance que Java \cite{dmitry_jemerov_kotlin}.
 
 \subsection{TensorFlow lite}
-TensorFlow Lite est une version légère du framework TensorFlow, spécialement conçue pour exécuter des modèles d'apprentissage automatique sur des appareils mobiles et des systèmes embarqués. Son principal avantage réside dans sa capacité à maintenir des performances élevées tout en étant optimisé pour des environnements aux ressources limitées. TensorFlow Lite  permet de déployer des modèles d'intelligence artificielle directement sur des smartphones, des objets connectés, et même des microcontrôleurs, ouvrant ainsi la porte à une gamme étendue d'applications, de la vision par ordinateur à la reconnaissance vocale, le tout en conservant une faible empreinte mémoire et une exécution rapide \cite{ml_2023}.
+TensorFlow Lite est une version légère du framework TensorFlow, spécialement conçue pour exécuter des modèles d'apprentissage automatique sur des appareils mobiles et des systèmes embarqués. Nous l'avons utilisé pour la commande vocale.\cite{ml_2023}.
 
 \subsection{Mediapipe}
-MediaPipe est un outil développé par Google qui offre des outils et des modèles pour le traitement des médias en temps réel, y compris la vision par ordinateur et le suivi de mouvement. Il simplifie le déploiement des modèles de machine learning sur des périphériques tels que des smartphones avec des bibliothèques low code. Ces bibliothèques comprennent actuellement des outils pour trois catégories : la vidéo, l'audio et le texte.
+MediaPipe est un outil développé par Google qui offre des outils et des modèles pour le traitement des médias en temps réel, y compris la vision par ordinateur et le suivi de mouvement. Il simplifie le déploiement des modèles de machine learning sur des périphériques tels que des smartphones avec des bibliothèques low code.
+Mediapipe nous a permis d'analyser et classifier les entrées audio en temps réel en utilisant YAMNet.
 
-\subsection{Yamnet}
+\subsection{YAMNet}
 YAMNet\cite{yamnet} est un réseau neuronal préformé qui utilise l'architecture de convolution séparable en profondeur MobileNetV1 \cite{andrew_g_howard_menglong_zhu_bo_chen_dmitry_kalenichenko_weijun_wang_tobias_weyand_marco_andreetto_hartwig_adam_mobilenets}. Il peut utiliser une forme d'onde audio comme entrée et faire des prédictions indépendantes pour chacun des 521 événements audio du corpus AudioSet \cite{dataset_large_scale}.
 
 \subsection{Firebase}
-Firebase est une plateforme de développement d'applications mobiles et web appartenant à Google, qui offre un ensemble de services cloud, tels que des bases de données en temps réel, l'authentification des utilisateurs, l'hébergement web, le stockage de fichiers, et des outils d'analyse avancés. Elle simplifie considérablement le développement d'applications en fournissant des fonctionnalités prêtes à l'emploi, ce qui permet aux développeurs de se concentrer sur la création de fonctionnalités uniques tout en bénéficiant de la puissance du cloud pour la gestion des données et des utilisateurs.
+Firebase est une plateforme de développement d'applications mobiles et web appartenant à Google, qui offre un ensemble de services cloud, tels que des bases de données en temps réel, l'authentification des utilisateurs, l'hébergement web, le stockage de fichiers, et des outils d'analyse avancés. Elle nous a permis de nous concentrer sur la création de fonctionnalités uniques tout en bénéficiant de la puissance du cloud pour la gestion des données et des utilisateurs ainsi que l'hébergement.
 
 \subsection{Angular}
-Angular est un framework de développement d'applications web open-source développé par Google. Il est largement utilisé pour la création d'applications web modernes et dynamiques. Angular est basé sur le langage TypeScript, une version améliorée de JavaScript, et offre un ensemble complet de fonctionnalités pour simplifier le développement front-end. 
-
-\subsection{Android Studio}
-Android Studio est un environnement de développement intégré officiellement pris en charge par Google pour la création d'applications Android. Il offre aux développeurs un ensemble complet d'outils pour concevoir, développer, déboguer et déployer des applications Android. 
+Angular est un framework de développement d'applications web open-source développé par Google. Il est largement utilisé pour la création d'applications web modernes et dynamiques. Angular est basé sur le langage TypeScript, une version améliorée de JavaScript, et offre un ensemble complet de fonctionnalités pour simplifier le développement front-end.
 
 \section{Diagramme de déploiement}
 \begin{figure}[H]

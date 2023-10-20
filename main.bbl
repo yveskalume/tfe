@@ -114,8 +114,8 @@ A.~Agrawal, A.~Maurya, A.~Patil, Student, and R.~Guide, ``Voice-controlled tool
 
 \bibitem{services}
 \BIBentryALTinterwordspacing
-``Services overview,'' En ligne, consulté le: 21 septembre 2023. [Online].
-  Available: \url{https://developer.android.com/guide/components/services}
+``Services overview.'' [Online]. Available:
+  \url{https://developer.android.com/guide/components/services}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}

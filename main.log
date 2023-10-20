@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.8.22)  19 OCT 2023 22:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.8.22)  20 OCT 2023 23:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -886,48 +886,48 @@ Underfull \hbox (badness 7486) in paragraph at lines 31--32
 <./images//usecase.png, id=129, 719.68875pt x 727.71875pt>
 File: ./images//usecase.png Graphic file (type png)
 <use ./images//usecase.png>
-Package pdftex.def Info: ./images//usecase.png  used on input line 86.
+Package pdftex.def Info: ./images//usecase.png  used on input line 87.
 (pdftex.def)             Requested size: 426.79135pt x 431.57115pt.
  [22] [23 <./images//usecase.png>] [24] [25]
 [26] [27] [28]
 <./images//s_authentifier.png, id=153, 442.65375pt x 576.1525pt>
 File: ./images//s_authentifier.png Graphic file (type png)
 <use ./images//s_authentifier.png>
-Package pdftex.def Info: ./images//s_authentifier.png  used on input line 368.
+Package pdftex.def Info: ./images//s_authentifier.png  used on input line 369.
 (pdftex.def)             Requested size: 301.1261pt x 391.96312pt.
  [29]
 <./images//consulter_contacts.png, id=158, 309.155pt x 284.06125pt>
 File: ./images//consulter_contacts.png Graphic file (type png)
 <use ./images//consulter_contacts.png>
 Package pdftex.def Info: ./images//consulter_contacts.png  used on input line 3
-74.
+75.
 (pdftex.def)             Requested size: 200.75073pt x 184.4599pt.
  [30 <./images//s_authentifier.png (PNG copy)>]
 <./images//ajouter_contact.png, id=162, 515.9275pt x 502.87875pt>
 File: ./images//ajouter_contact.png Graphic file (type png)
 <use ./images//ajouter_contact.png>
-Package pdftex.def Info: ./images//ajouter_contact.png  used on input line 380.
+Package pdftex.def Info: ./images//ajouter_contact.png  used on input line 381.
 
 (pdftex.def)             Requested size: 301.1261pt x 293.51913pt.
 <./images//supprimer_contact.png, id=163, 368.37625pt x 446.66875pt>
 File: ./images//supprimer_contact.png Graphic file (type png)
 <use ./images//supprimer_contact.png>
 Package pdftex.def Info: ./images//supprimer_contact.png  used on input line 38
-6.
+7.
 (pdftex.def)             Requested size: 250.93842pt x 304.26915pt.
  [31 <./images//consulter_contacts.png (PNG copy)> <./images//ajouter_contact.p
 ng (PNG copy)>]
 <./images//modifier_contact.png, id=167, 482.80376pt x 576.1525pt>
 File: ./images//modifier_contact.png Graphic file (type png)
 <use ./images//modifier_contact.png>
-Package pdftex.def Info: ./images//modifier_contact.png  used on input line 392
+Package pdftex.def Info: ./images//modifier_contact.png  used on input line 393
 .
 (pdftex.def)             Requested size: 301.1261pt x 359.35594pt.
  [32 <./images//supprimer_contact.png (PNG copy)>]
 <./images//activer_tracking.png, id=171, 226.8475pt x 284.06125pt>
 File: ./images//activer_tracking.png Graphic file (type png)
 <use ./images//activer_tracking.png>
-Package pdftex.def Info: ./images//activer_tracking.png  used on input line 398
+Package pdftex.def Info: ./images//activer_tracking.png  used on input line 399
 .
 (pdftex.def)             Requested size: 180.67566pt x 226.2437pt.
  [33 <./images//modifier_contact.png (PNG copy)>]
@@ -935,12 +935,12 @@ Package pdftex.def Info: ./images//activer_tracking.png  used on input line 398
 File: ./images//desactiver_tracking.png Graphic file (type png)
 <use ./images//desactiver_tracking.png>
 Package pdftex.def Info: ./images//desactiver_tracking.png  used on input line 
-404.
+405.
 (pdftex.def)             Requested size: 180.67566pt x 204.53693pt.
 <./images//envoyer_alerte.png, id=176, 658.46pt x 601.24625pt>
 File: ./images//envoyer_alerte.png Graphic file (type png)
 <use ./images//envoyer_alerte.png>
-Package pdftex.def Info: ./images//envoyer_alerte.png  used on input line 410.
+Package pdftex.def Info: ./images//envoyer_alerte.png  used on input line 411.
 (pdftex.def)             Requested size: 426.79135pt x 389.71368pt.
  [34 <./images//activer_tracking.png (PNG copy)> <./images//desactiver_tracking
 .png (PNG copy)>]
@@ -948,35 +948,35 @@ Package pdftex.def Info: ./images//envoyer_alerte.png  used on input line 410.
 File: ./images//consulter_alertes.png Graphic file (type png)
 <use ./images//consulter_alertes.png>
 Package pdftex.def Info: ./images//consulter_alertes.png  used on input line 41
-6.
+7.
 (pdftex.def)             Requested size: 240.90088pt x 205.35179pt.
  [35 <./images//envoyer_alerte.png (PNG copy)>]
 <./images//voir_details_alerte.png, id=185, 402.50375pt x 284.06125pt>
 File: ./images//voir_details_alerte.png Graphic file (type png)
 <use ./images//voir_details_alerte.png>
 Package pdftex.def Info: ./images//voir_details_alerte.png  used on input line 
-422.
+423.
 (pdftex.def)             Requested size: 260.97595pt x 184.17816pt.
 <./images//activity_user.png, id=186, 888.31876pt x 946.53625pt>
 File: ./images//activity_user.png Graphic file (type png)
 <use ./images//activity_user.png>
-Package pdftex.def Info: ./images//activity_user.png  used on input line 431.
+Package pdftex.def Info: ./images//activity_user.png  used on input line 432.
 (pdftex.def)             Requested size: 426.79135pt x 454.75108pt.
  [36 <./images//consulter_alertes.png (PNG copy)> <./images//voir_details_alert
 e.png (PNG copy)>]
 <./images//activity_admin.png, id=191, 190.7125pt x 503.8825pt>
 File: ./images//activity_admin.png Graphic file (type png)
 <use ./images//activity_admin.png>
-Package pdftex.def Info: ./images//activity_admin.png  used on input line 437.
+Package pdftex.def Info: ./images//activity_admin.png  used on input line 438.
 (pdftex.def)             Requested size: 151.96199pt x 401.50146pt.
  [37 <./images//activity_user.png>]
 <./images//domain.png, id=196, 718.685pt x 502.87875pt>
 File: ./images//domain.png Graphic file (type png)
 <use ./images//domain.png>
-Package pdftex.def Info: ./images//domain.png  used on input line 443.
+Package pdftex.def Info: ./images//domain.png  used on input line 444.
 (pdftex.def)             Requested size: 426.79135pt x 298.6449pt.
  [38 <./images//activity_admin.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 448--449
+Underfull \hbox (badness 10000) in paragraph at lines 449--450
 
  []
 
@@ -984,12 +984,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 448--449
 <./images//doc_user.png, id=205, 306.14375pt x 476.78125pt>
 File: ./images//doc_user.png Graphic file (type png)
 <use ./images//doc_user.png>
-Package pdftex.def Info: ./images//doc_user.png  used on input line 463.
+Package pdftex.def Info: ./images//doc_user.png  used on input line 464.
 (pdftex.def)             Requested size: 161.16231pt x 250.13202pt.
 <./images//doc_alert.png, id=206, 369.38pt x 544.0325pt>
 File: ./images//doc_alert.png Graphic file (type png)
 <use ./images//doc_alert.png>
-Package pdftex.def Info: ./images//doc_alert.png  used on input line 469.
+Package pdftex.def Info: ./images//doc_alert.png  used on input line 470.
 (pdftex.def)             Requested size: 161.15808pt x 250.13347pt.
  [40 <./images//doc_user.png>]) [41 <./images//doc_alert.png>]
 \openout2 = `./chapitres/chap3.aux'.
@@ -1022,10 +1022,10 @@ less on input line 28.
 <./images//deploiement.png, id=224, 422.57875pt x 684.5575pt>
 File: ./images//deploiement.png Graphic file (type png)
 <use ./images//deploiement.png>
-Package pdftex.def Info: ./images//deploiement.png  used on input line 55.
+Package pdftex.def Info: ./images//deploiement.png  used on input line 53.
 (pdftex.def)             Requested size: 309.81465pt x 501.87683pt.
  [44]
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
@@ -1033,104 +1033,104 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--62
 <./images//fonctionnement.png, id=232, 808.01875pt x 453.695pt>
 File: ./images//fonctionnement.png Graphic file (type png)
 <use ./images//fonctionnement.png>
-Package pdftex.def Info: ./images//fonctionnement.png  used on input line 75.
+Package pdftex.def Info: ./images//fonctionnement.png  used on input line 73.
 (pdftex.def)             Requested size: 426.79135pt x 239.6403pt.
  [46]
 <./images//code_permission.png, id=236, 691.58376pt x 470.75874pt>
 File: ./images//code_permission.png Graphic file (type png)
 <use ./images//code_permission.png>
-Package pdftex.def Info: ./images//code_permission.png  used on input line 81.
+Package pdftex.def Info: ./images//code_permission.png  used on input line 79.
 (pdftex.def)             Requested size: 426.79135pt x 290.51697pt.
 <./images//code_location.png, id=237, 954.56625pt x 684.5575pt>
 File: ./images//code_location.png Graphic file (type png)
 <use ./images//code_location.png>
-Package pdftex.def Info: ./images//code_location.png  used on input line 87.
+Package pdftex.def Info: ./images//code_location.png  used on input line 85.
 (pdftex.def)             Requested size: 426.79135pt x 306.06337pt.
  [47 <./images//fonctionnement.png> <./images//code_permission.png>]
 <./images//code_classification.png, id=244, 1109.14375pt x 870.25125pt>
 File: ./images//code_classification.png Graphic file (type png)
 <use ./images//code_classification.png>
 Package pdftex.def Info: ./images//code_classification.png  used on input line 
-93.
+91.
 (pdftex.def)             Requested size: 426.79135pt x 334.8685pt.
  [48 <./images//code_location.png>]
 <./images//code_detection.png, id=249, 787.94376pt x 762.85pt>
 File: ./images//code_detection.png Graphic file (type png)
 <use ./images//code_detection.png>
-Package pdftex.def Info: ./images//code_detection.png  used on input line 99.
+Package pdftex.def Info: ./images//code_detection.png  used on input line 97.
 (pdftex.def)             Requested size: 426.79135pt x 413.19pt.
  [49 <./images//code_classification.png>]
 <./images//code_envoi_alerte.png, id=254, 985.6825pt x 769.87625pt>
 File: ./images//code_envoi_alerte.png Graphic file (type png)
 <use ./images//code_envoi_alerte.png>
 Package pdftex.def Info: ./images//code_envoi_alerte.png  used on input line 10
-5.
+3.
 (pdftex.def)             Requested size: 426.79135pt x 333.35457pt.
  [50 <./images//code_detection.png>]
 <./images//phone.png, id=259, 1084.05pt x 2417.03pt>
 File: ./images//phone.png Graphic file (type png)
 <use ./images//phone.png>
-Package pdftex.def Info: ./images//phone.png  used on input line 114.
+Package pdftex.def Info: ./images//phone.png  used on input line 112.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
  [51 <./images//code_envoi_alerte.png>]
 <./images//otp.png, id=264, 1084.05pt x 2417.03pt>
 File: ./images//otp.png Graphic file (type png)
 <use ./images//otp.png>
-Package pdftex.def Info: ./images//otp.png  used on input line 120.
+Package pdftex.def Info: ./images//otp.png  used on input line 118.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
  [52 <./images//phone.png>]
 <./images//profile.png, id=268, 1084.05pt x 2417.03pt>
 File: ./images//profile.png Graphic file (type png)
 <use ./images//profile.png>
-Package pdftex.def Info: ./images//profile.png  used on input line 126.
+Package pdftex.def Info: ./images//profile.png  used on input line 124.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
  [53 <./images//otp.png>]
 <./images//home.png, id=273, 1084.05pt x 2417.03pt>
 File: ./images//home.png Graphic file (type png)
 <use ./images//home.png>
-Package pdftex.def Info: ./images//home.png  used on input line 132.
+Package pdftex.def Info: ./images//home.png  used on input line 130.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
 
 [54 <./images//profile.png>]
 <./images//add_contact.png, id=277, 1084.05pt x 2417.03pt>
 File: ./images//add_contact.png Graphic file (type png)
 <use ./images//add_contact.png>
-Package pdftex.def Info: ./images//add_contact.png  used on input line 138.
+Package pdftex.def Info: ./images//add_contact.png  used on input line 136.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
  [55 <./images//home.png>]
 <./images//trackingenabled.png, id=281, 1084.05pt x 2417.03pt>
 File: ./images//trackingenabled.png Graphic file (type png)
 <use ./images//trackingenabled.png>
-Package pdftex.def Info: ./images//trackingenabled.png  used on input line 144.
+Package pdftex.def Info: ./images//trackingenabled.png  used on input line 142.
 
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
  [56 <./images//add_contact.png>]
 <./images//foreground.png, id=285, 1084.05pt x 2417.03pt>
 File: ./images//foreground.png Graphic file (type png)
 <use ./images//foreground.png>
-Package pdftex.def Info: ./images//foreground.png  used on input line 150.
+Package pdftex.def Info: ./images//foreground.png  used on input line 148.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
  [57 <./images//trackingenabled.png>]
 <./images//sendingalerts.png, id=289, 1084.05pt x 2417.03pt>
 File: ./images//sendingalerts.png Graphic file (type png)
 <use ./images//sendingalerts.png>
-Package pdftex.def Info: ./images//sendingalerts.png  used on input line 156.
+Package pdftex.def Info: ./images//sendingalerts.png  used on input line 154.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
  [58 <./images//foreground.png>]
 <./images//sms.png, id=293, 1084.05pt x 2417.03pt>
 File: ./images//sms.png Graphic file (type png)
 <use ./images//sms.png>
-Package pdftex.def Info: ./images//sms.png  used on input line 162.
+Package pdftex.def Info: ./images//sms.png  used on input line 160.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
 
 [59 <./images//sendingalerts.png>]
 <./images//admin_auth.png, id=298, 1927.2pt x 977.6525pt>
 File: ./images//admin_auth.png Graphic file (type png)
 <use ./images//admin_auth.png>
-Package pdftex.def Info: ./images//admin_auth.png  used on input line 170.
+Package pdftex.def Info: ./images//admin_auth.png  used on input line 168.
 (pdftex.def)             Requested size: 426.79135pt x 216.5014pt.
 
-Overfull \hbox (0.79999pt too wide) in paragraph at lines 170--171
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 168--169
  [][] 
  []
 
@@ -1138,25 +1138,25 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 170--171
 <./images//admin_home.png, id=302, 1927.2pt x 977.6525pt>
 File: ./images//admin_home.png Graphic file (type png)
 <use ./images//admin_home.png>
-Package pdftex.def Info: ./images//admin_home.png  used on input line 176.
+Package pdftex.def Info: ./images//admin_home.png  used on input line 174.
 (pdftex.def)             Requested size: 426.79135pt x 216.5014pt.
 
-Overfull \hbox (0.79999pt too wide) in paragraph at lines 176--177
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 174--175
  [][] 
  []
 
 <./images//admin_details.png, id=303, 1927.2pt x 977.6525pt>
 File: ./images//admin_details.png Graphic file (type png)
 <use ./images//admin_details.png>
-Package pdftex.def Info: ./images//admin_details.png  used on input line 182.
+Package pdftex.def Info: ./images//admin_details.png  used on input line 180.
 (pdftex.def)             Requested size: 426.79135pt x 216.5014pt.
 
-Overfull \hbox (0.79999pt too wide) in paragraph at lines 182--183
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 180--181
  [][] 
  []
 
 [61 <./images//admin_auth.png> <./images//admin_home.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 199--200
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
 
  []
 
@@ -1227,6 +1227,11 @@ Underfull \hbox (badness 2088) in paragraph at lines 97--100
 :
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--120
+[]\OT1/ptm/m/n/12 ``Services overview.'' [On-line]. Avail-able:
+ []
+
 )) [66] (./main.aux (./page-de-garde.aux) (./chapitres/epigraphe.aux)
 (./chapitres/dedicace.aux) (./chapitres/remerciement.aux)
 (./chapitres/acronyme.aux) (./chapitres/avant-propos.aux)
@@ -1248,7 +1253,7 @@ base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy
 are/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (80 pages, 3626946 bytes).
+Output written on main.pdf (80 pages, 3620755 bytes).
 PDF statistics:
  358 PDF objects out of 1000 (max. 8388607)
  200 compressed objects within 2 object streams

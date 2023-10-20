@@ -78,10 +78,9 @@
 \contentsline {subsection}{\numberline {3.3.1}Kotlin}{43}{}%
 \contentsline {subsection}{\numberline {3.3.2}TensorFlow lite}{43}{}%
 \contentsline {subsection}{\numberline {3.3.3}Mediapipe}{43}{}%
-\contentsline {subsection}{\numberline {3.3.4}Yamnet}{44}{}%
+\contentsline {subsection}{\numberline {3.3.4}YAMNet}{43}{}%
 \contentsline {subsection}{\numberline {3.3.5}Firebase}{44}{}%
 \contentsline {subsection}{\numberline {3.3.6}Angular}{44}{}%
-\contentsline {subsection}{\numberline {3.3.7}Android Studio}{44}{}%
 \contentsline {section}{\numberline {3.4}Diagramme de déploiement}{45}{}%
 \contentsline {section}{\numberline {3.5}Expérience utilisateur et fonctionnement}{45}{}%
 \contentsline {subsection}{\numberline {3.5.1}Expérience utilisateur}{45}{}%

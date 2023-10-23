@@ -91,4 +91,5 @@
 \contentsline {section}{\numberline {3.7}Difficultés rencontrées}{62}{}%
 \contentsline {section}{\numberline {3.8} Conclusion partielle}{63}{}%
 \contentsline {chapter}{CONCLUSION GÉNÉRALE}{64}{}%
+\contentsline {chapter}{BIBLIOGRAPHIE}{65}{}%
 \contentsfinish 

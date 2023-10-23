@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.8.22)  20 OCT 2023 23:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.8.22)  23 OCT 2023 09:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -545,6 +545,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
 
 
+LaTeX Warning: Citation `the_dsdm_consortium_dsdm' on page V undefined on input
+ line 8.
+
+
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
 less on input line 37.
 
@@ -733,6 +737,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 84--85
  []
 
 
+LaTeX Warning: Citation `voice_controlled' on page 4 undefined on input line 86
+.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 86--87
 
  []
@@ -743,9 +751,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--87
  (./chapitres/chap1.tex
 Chapter 1.
 
+LaTeX Warning: Citation `polaris' on page 6 undefined on input line 7.
+
+
+LaTeX Warning: Citation `michael_brian_schiffer_electric_2005' on page 6 undefi
+ned on input line 7.
+
+
+LaTeX Warning: Citation `frederic_chapin_lane_venice_1973' on page 6 undefined 
+on input line 7.
+
+
+LaTeX Warning: Citation `p_daly_navstar_nodate' on page 6 undefined on input li
+ne 7.
+
+
+LaTeX Warning: Citation `frederic_evennou_techniques_2007' on page 6 undefined 
+on input line 12.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
+
+
+LaTeX Warning: Citation `frederic_evennou_techniques_2007' on page 6 undefined 
+on input line 18.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 18--19
@@ -776,19 +807,46 @@ File: ./images//carteloran.png Graphic file (type png)
 Package pdftex.def Info: ./images//carteloran.png  used on input line 22.
 (pdftex.def)             Requested size: 426.79135pt x 280.08525pt.
 
+
+LaTeX Warning: Citation `frederic_evennou_techniques_2007' on page 7 undefined 
+on input line 26.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
+
+
+LaTeX Warning: Citation `frederic_evennou_techniques_2007' on page 7 undefined 
+on input line 28.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
-[7 <./images//carteloran.png>] [8]
+[7 <./images//carteloran.png>]
+
+LaTeX Warning: Citation `frederic_evennou_techniques_2007' on page 8 undefined 
+on input line 49.
+
+[8]
+
+LaTeX Warning: Citation `w_guier_and_g_weiffenbach_genesis_1997' on page 9 unde
+fined on input line 52.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 52--53
 
  []
+
+
+LaTeX Warning: Citation `frederic_evennou_techniques_2007' on page 9 undefined 
+on input line 59.
+
+
+LaTeX Warning: Citation `bernhard_hofmann_wellenhof_gnss' on page 9 undefined o
+n input line 62.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 62--63
@@ -801,9 +859,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--65
  []
 
 
+LaTeX Warning: Citation `frederic_evennou_techniques_2007' on page 10 undefined
+ on input line 66.
+
+
+LaTeX Warning: Citation `bernhard_hofmann_wellenhof_gnss' on page 10 undefined 
+on input line 69.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 69--70
 
  []
+
+
+LaTeX Warning: Citation `bernhard_hofmann_wellenhof_gnss' on page 10 undefined 
+on input line 71.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 74--75
@@ -854,11 +924,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 158--159
 
  (./chapitres/chap2.tex
 Chapter 2.
+
+LaTeX Warning: Citation `xavier_blanc_uml2' on page 19 undefined on input line 
+11.
+
+
+LaTeX Warning: Citation `jim_arlow_uml' on page 19 undefined on input line 12.
+
+
+LaTeX Warning: Citation `jim_arlow_uml' on page 19 undefined on input line 13.
+
+
+LaTeX Warning: Citation `jason_bennett_agile' on page 19 undefined on input lin
+e 17.
+
 <./images//dsdm.png, id=119, 513.92pt x 350.30875pt>
 File: ./images//dsdm.png Graphic file (type png)
 <use ./images//dsdm.png>
 Package pdftex.def Info: ./images//dsdm.png  used on input line 20.
 (pdftex.def)             Requested size: 426.79135pt x 290.92189pt.
+
+LaTeX Warning: Citation `the_dsdm_consortium_dsdm' on page 19 undefined on inpu
+t line 21.
+
+
+LaTeX Warning: Citation `the_dsdm_consortium_dsdm' on page 19 undefined on inpu
+t line 21.
+
 
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
 less on input line 23.
@@ -877,19 +969,32 @@ less on input line 23.
 
 
 ]
+
+LaTeX Warning: Citation `the_dsdm_consortium_dsdm' on page 20 undefined on inpu
+t line 26.
+
+
 Underfull \hbox (badness 7486) in paragraph at lines 31--32
 []\OT1/ptm/m/n/12 Identifier les cat[]egories d'utilisateurs im-pact[]es par le
  d[]eveloppement et
  []
 
-[20 <./images//dsdm.png>] [21]
+[20 <./images//dsdm.png>]
+
+LaTeX Warning: Citation `the_dsdm_consortium_dsdm' on page 21 undefined on inpu
+t line 45.
+
+
+LaTeX Warning: Citation `mark_richards_fundamentals' on page 21 undefined on in
+put line 49.
+
+[21]
 <./images//usecase.png, id=129, 719.68875pt x 727.71875pt>
 File: ./images//usecase.png Graphic file (type png)
 <use ./images//usecase.png>
 Package pdftex.def Info: ./images//usecase.png  used on input line 87.
 (pdftex.def)             Requested size: 426.79135pt x 431.57115pt.
- [22] [23 <./images//usecase.png>] [24] [25]
-[26] [27] [28]
+ [22] [23 <./images//usecase.png>] [24] [25] [26] [27] [28]
 <./images//s_authentifier.png, id=153, 442.65375pt x 576.1525pt>
 File: ./images//s_authentifier.png Graphic file (type png)
 <use ./images//s_authentifier.png>
@@ -942,8 +1047,9 @@ File: ./images//envoyer_alerte.png Graphic file (type png)
 <use ./images//envoyer_alerte.png>
 Package pdftex.def Info: ./images//envoyer_alerte.png  used on input line 411.
 (pdftex.def)             Requested size: 426.79135pt x 389.71368pt.
- [34 <./images//activer_tracking.png (PNG copy)> <./images//desactiver_tracking
-.png (PNG copy)>]
+
+[34 <./images//activer_tracking.png (PNG copy)> <./images//desactiver_tracking.
+png (PNG copy)>]
 <./images//consulter_alertes.png, id=180, 333.245pt x 284.06125pt>
 File: ./images//consulter_alertes.png Graphic file (type png)
 <use ./images//consulter_alertes.png>
@@ -980,7 +1086,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 449--450
 
  []
 
+
+LaTeX Warning: Citation `harley_vera_data' on page 39 undefined on input line 4
+55.
+
 [39 <./images//domain.png>]
+
+LaTeX Warning: Citation `harley_vera_data' on page 40 undefined on input line 4
+57.
+
 <./images//doc_user.png, id=205, 306.14375pt x 476.78125pt>
 File: ./images//doc_user.png Graphic file (type png)
 <use ./images//doc_user.png>
@@ -991,10 +1105,11 @@ File: ./images//doc_alert.png Graphic file (type png)
 <use ./images//doc_alert.png>
 Package pdftex.def Info: ./images//doc_alert.png  used on input line 470.
 (pdftex.def)             Requested size: 161.15808pt x 250.13347pt.
- [40 <./images//doc_user.png>]) [41 <./images//doc_alert.png>]
+[40 <./images//doc_user.png>]) [41 <./images//doc_alert.png>]
 \openout2 = `./chapitres/chap3.aux'.
 
- (./chapitres/chap3.tex
+
+(./chapitres/chap3.tex
 Chapter 3.
 <./images//architecture.png, id=216, 788.9475pt x 352.31625pt>
 File: ./images//architecture.png Graphic file (type png)
@@ -1018,24 +1133,52 @@ less on input line 28.
 
 
 
-] [43 <./images//architecture.png>]
+]
+
+LaTeX Warning: Citation `dmitry_jemerov_kotlin' on page 43 undefined on input l
+ine 32.
+
+
+LaTeX Warning: Citation `ml_2023' on page 43 undefined on input line 35.
+
+
+LaTeX Warning: Citation `yamnet' on page 43 undefined on input line 42.
+
+
+LaTeX Warning: Citation `andrew_g_howard_menglong_zhu_bo_chen_dmitry_kalenichen
+ko_weijun_wang_tobias_weyand_marco_andreetto_hartwig_adam_mobilenets' on page 4
+3 undefined on input line 42.
+
+
+LaTeX Warning: Citation `dataset_large_scale' on page 43 undefined on input lin
+e 42.
+
+[43 <./images//architecture.png>]
 <./images//deploiement.png, id=224, 422.57875pt x 684.5575pt>
 File: ./images//deploiement.png Graphic file (type png)
 <use ./images//deploiement.png>
 Package pdftex.def Info: ./images//deploiement.png  used on input line 53.
 (pdftex.def)             Requested size: 309.81465pt x 501.87683pt.
  [44]
+
+LaTeX Warning: Citation `jesse_james_garrett_elements' on page 45 undefined on 
+input line 59.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
 [45 <./images//deploiement.png>]
+
+LaTeX Warning: Citation `services' on page 46 undefined on input line 67.
+
 <./images//fonctionnement.png, id=232, 808.01875pt x 453.695pt>
 File: ./images//fonctionnement.png Graphic file (type png)
 <use ./images//fonctionnement.png>
 Package pdftex.def Info: ./images//fonctionnement.png  used on input line 73.
 (pdftex.def)             Requested size: 426.79135pt x 239.6403pt.
- [46]
+[46]
 <./images//code_permission.png, id=236, 691.58376pt x 470.75874pt>
 File: ./images//code_permission.png Graphic file (type png)
 <use ./images//code_permission.png>
@@ -1053,7 +1196,8 @@ File: ./images//code_classification.png Graphic file (type png)
 Package pdftex.def Info: ./images//code_classification.png  used on input line 
 91.
 (pdftex.def)             Requested size: 426.79135pt x 334.8685pt.
- [48 <./images//code_location.png>]
+
+[48 <./images//code_location.png>]
 <./images//code_detection.png, id=249, 787.94376pt x 762.85pt>
 File: ./images//code_detection.png Graphic file (type png)
 <use ./images//code_detection.png>
@@ -1066,7 +1210,8 @@ File: ./images//code_envoi_alerte.png Graphic file (type png)
 Package pdftex.def Info: ./images//code_envoi_alerte.png  used on input line 10
 3.
 (pdftex.def)             Requested size: 426.79135pt x 333.35457pt.
- [50 <./images//code_detection.png>]
+
+[50 <./images//code_detection.png>]
 <./images//phone.png, id=259, 1084.05pt x 2417.03pt>
 File: ./images//phone.png Graphic file (type png)
 <use ./images//phone.png>
@@ -1078,7 +1223,8 @@ File: ./images//otp.png Graphic file (type png)
 <use ./images//otp.png>
 Package pdftex.def Info: ./images//otp.png  used on input line 118.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
- [52 <./images//phone.png>]
+
+[52 <./images//phone.png>]
 <./images//profile.png, id=268, 1084.05pt x 2417.03pt>
 File: ./images//profile.png Graphic file (type png)
 <use ./images//profile.png>
@@ -1090,8 +1236,7 @@ File: ./images//home.png Graphic file (type png)
 <use ./images//home.png>
 Package pdftex.def Info: ./images//home.png  used on input line 130.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
-
-[54 <./images//profile.png>]
+ [54 <./images//profile.png>]
 <./images//add_contact.png, id=277, 1084.05pt x 2417.03pt>
 File: ./images//add_contact.png Graphic file (type png)
 <use ./images//add_contact.png>
@@ -1122,8 +1267,7 @@ File: ./images//sms.png Graphic file (type png)
 <use ./images//sms.png>
 Package pdftex.def Info: ./images//sms.png  used on input line 160.
 (pdftex.def)             Requested size: 260.17244pt x 580.06218pt.
-
-[59 <./images//sendingalerts.png>]
+ [59 <./images//sendingalerts.png>]
 <./images//admin_auth.png, id=298, 1927.2pt x 977.6525pt>
 File: ./images//admin_auth.png Graphic file (type png)
 <use ./images//admin_auth.png>
@@ -1199,64 +1343,51 @@ less on input line 99.
 ]
 \openout2 = `./chapitres/bibliographie.aux'.
 
- (./chapitres/bibliographie.tex (./main.bbl
-LaTeX Info: Symbol \textasciiacute not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 86.
-
+ (./chapitres/bibliographie.tex
 
 Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 95.
+less on input line 50.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 95.
+less on input line 50.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 95.
+less on input line 50.
 
 [65
 
 
 
 
-]
-Underfull \hbox (badness 2088) in paragraph at lines 97--100
-[]\OT1/ptm/m/n/12 ``Classification du son avec YAM-Net.'' [On-line]. Avail-able
-:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--120
-[]\OT1/ptm/m/n/12 ``Services overview.'' [On-line]. Avail-able:
- []
-
-)) [66] (./main.aux (./page-de-garde.aux) (./chapitres/epigraphe.aux)
+]) [66] (./main.aux (./page-de-garde.aux) (./chapitres/epigraphe.aux)
 (./chapitres/dedicace.aux) (./chapitres/remerciement.aux)
 (./chapitres/acronyme.aux) (./chapitres/avant-propos.aux)
 (./chapitres/introduction.aux) (./chapitres/chap1.aux) (./chapitres/chap2.aux)
 (./chapitres/chap3.aux) (./chapitres/conclusion.aux)
-(./chapitres/bibliographie.aux)) ) 
+(./chapitres/bibliographie.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 7294 strings out of 480247
- 138294 string characters out of 5896151
- 414508 words of memory out of 5000000
- 25027 multiletter control sequences out of 15000+600000
- 489610 words of font info for 64 fonts, out of 8000000 for 9000
+ 7255 strings out of 480247
+ 137466 string characters out of 5896151
+ 414432 words of memory out of 5000000
+ 24993 multiletter control sequences out of 15000+600000
+ 488886 words of font info for 62 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  55i,12n,70p,1422b,592s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/yv/.texlive2021/texmf-var/fonts/pk/lj
-four/jknappen/ec/tcti1200.600pk>{/usr/share/texlive/texmf-dist/fonts/enc/dvips/
-base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy
-10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (80 pages, 3620755 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
+/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (80 pages, 3621203 bytes).
 PDF statistics:
- 358 PDF objects out of 1000 (max. 8388607)
- 200 compressed objects within 2 object streams
+ 353 PDF objects out of 1000 (max. 8388607)
+ 196 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  216 words of extra memory for PDF output out of 10000 (max. 10000000)
 

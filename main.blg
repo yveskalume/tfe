@@ -53,37 +53,37 @@ Warning--empty year in jesse_james_garrett_elements
 Done.
 You've used 21 entries,
             4087 wiz_defined-function locations,
-            911 strings with 10542 characters,
-and the built_in function-call counts, 7257 in all, are:
+            911 strings with 10574 characters,
+and the built_in function-call counts, 7260 in all, are:
 = -- 481
 > -- 143
 < -- 7
 + -- 67
 - -- 31
-* -- 302
-:= -- 1191
+* -- 304
+:= -- 1196
 add.period$ -- 34
 call.type$ -- 21
 change.case$ -- 17
 chr.to.int$ -- 18
 cite$ -- 45
-duplicate$ -- 621
-empty$ -- 792
+duplicate$ -- 619
+empty$ -- 790
 format.name$ -- 39
-if$ -- 1631
+if$ -- 1629
 int.to.chr$ -- 0
 int.to.str$ -- 21
 missing$ -- 112
-newline$ -- 94
+newline$ -- 96
 num.names$ -- 16
-pop$ -- 390
+pop$ -- 394
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 8
-skip$ -- 595
+skip$ -- 593
 stack$ -- 0
 substring$ -- 17
-swap$ -- 304
+swap$ -- 300
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 5
@@ -91,5 +91,5 @@ type$ -- 21
 warning$ -- 24
 while$ -- 16
 width$ -- 23
-write$ -- 169
+write$ -- 171
 (There was 1 error message)

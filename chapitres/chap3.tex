@@ -31,9 +31,6 @@ Cette conception distribuée permet une plus grande réactivité de l'applicatio
 Kotlin est un langage de programmation orienté objet, à typage statique, interopérable avec la machine virtuelle Java, les bibliothèques de classes Java et Android.
 Il peut être utilisé presque partout où Java est utilisé, pour le développement côté serveur, les applications Android et bien plus encore. Kotlin fonctionne parfaitement avec toutes les et s'exécute avec le même niveau de performance que Java \cite{dmitry_jemerov_kotlin}.
 
-\subsection{TensorFlow lite}
-TensorFlow Lite est une version légère du framework TensorFlow, spécialement conçue pour exécuter des modèles d'apprentissage automatique sur des appareils mobiles et des systèmes embarqués. Nous l'avons utilisé pour la commande vocale.\cite{ml_2023}.
-
 \subsection{Mediapipe}
 MediaPipe est un outil développé par Google qui offre des outils et des modèles pour le traitement des médias en temps réel, y compris la vision par ordinateur et le suivi de mouvement. Il simplifie le déploiement des modèles de machine learning sur des périphériques tels que des smartphones avec des bibliothèques low code.
 Mediapipe nous a permis d'analyser et classifier les entrées audio en temps réel en utilisant YAMNet.
@@ -64,9 +61,9 @@ Tout d'abord, il est essentiel de comprendre les besoins, les compétences techn
 
 \subsection{Fonctionnement}
 
-Pour permettre à notre application mobile de recevoir des commandes, nous avons recouru au composant d’application appelé service. Un service est un composant d'application qui peut effectuer des opérations de longue durée en arrière-plan. Il ne fournit pas d'interface utilisateur. Une fois lancé, un service peut continuer à fonctionner pendant un certain temps, même après que l'utilisateur a basculé vers une autre application \cite{services}. Mais avant tout, nous devrions commencer par demander la permission d'accéder à la géolocalisation ainsi qu'au périphérique audio du smartphone, notamment le microphone.
+Pour permettre à notre application mobile de fonctionner, nous avons recouru au composant d’application appelé service. Un service est un composant d'application qui peut effectuer des opérations de longue durée en arrière-plan. Il ne fournit pas d'interface utilisateur. Une fois lancé, un service peut continuer à fonctionner pendant un certain temps, même après que l'utilisateur a basculé vers une autre application \cite{services}. Mais avant tout, nous devrions commencer par demander la permission d'accéder à la géolocalisation ainsi qu'au périphérique audio du smartphone, notamment le microphone.
 
-Une fois que l'application a obtenu l'accès au microphone, les données captées sont évaluées à l'aide de MediaPipe et TensorFlow Lite. MediaPipe et TensorFlow Lite ont respectivement pour objectif de détecter des bruits tels que les pleurs et les gémissements, qui peuvent indiquer qu'une personne est en danger, ainsi que des commandes vocales spécifiques. Ces scénarios déclenchent alors le lancement d'alertes. Les alertes entraînent l'envoi de messages contenant la géolocalisation du smartphone aux contacts préenregistrés, ainsi qu'au serveur backend, dans le cas où le smartphone dispose d'une connexion Internet.
+Une fois que l'application a obtenu l'accès au microphone, les données captées sont évaluées à l'aide de MediaPipe. MediaPipe à pour objectif de détecter des bruits tels que les pleurs et les gémissements, qui peuvent indiquer qu'une personne est en danger. Ces scénarios déclenchent alors le lancement d'alertes. Les alertes entraînent l'envoi de messages contenant la géolocalisation du smartphone aux contacts préenregistrés, ainsi qu'au serveur backend, dans le cas où le smartphone dispose d'une connexion Internet. Également, l'utilisateur peut envoyer l'alerte manuellement d'une manière discrète en appuyant trois fois ou plus sur l'une des touches physiques de volume de son smartphone, cette action est détectée par le ContentObserver\cite{content_observer}.
 
 \begin{figure}[H]
 	\centering
@@ -90,12 +87,6 @@ Une fois que l'application a obtenu l'accès au microphone, les données captée
 	\centering
 	\includegraphics[width=\textwidth]{code_classification}
 	\caption{Classification des entrées sonores}
-\end{figure}
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=\textwidth]{code_detection}
-	\caption{Détection d’une commande vocale sur les entrées audios}
 \end{figure}
 
 \begin{figure}[H]

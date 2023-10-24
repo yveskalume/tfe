@@ -260,7 +260,7 @@ Dans le cadre de notre travail, le diagramme de cas d'utilisation revêt une imp
 	
 	\item Activer tracking
 	\begin{itemize}
-		\item Objectif : permettre à l’utilisateur d’activer l’écoute de la commande vocale
+		\item Objectif : permettre à l’utilisateur d’activer l’écoute des entrées sonores
 		\item Acteurs :
 		\begin{itemize}
 			\item Acteur principal : Utilisateur
@@ -273,12 +273,12 @@ Dans le cadre de notre travail, le diagramme de cas d'utilisation revêt une imp
 		\end{enumerate}
 		\item Scenario alternatif : -
 		\item Scenario d’exception : -
-		\item Postcondition : Le système est en attente d’une commande vocale
+		\item Postcondition : Le système est entrain d'écouter et analyser les entrées sonores
 	\end{itemize}
 	
 	\item Désactiver tracking
 	\begin{itemize}
-		\item Objectif : permettre à l’acteur d’annuler l’écoute de la commande vocale
+		\item Objectif : permettre à l’acteur d’annuler l’écoute des entrées sonores
 		\item Acteurs :
 		\begin{itemize}
 			\item Acteur principal : Utilisateur
@@ -291,7 +291,7 @@ Dans le cadre de notre travail, le diagramme de cas d'utilisation revêt une imp
 		\end{enumerate}
 		\item Scenario alternatif : -
 		\item Scenario d’exception : -
-		\item Postcondition : L’écoute de la commande vocale est désactivée
+		\item Postcondition : L’écoute et l'analyse des entrées sonores sont désactivées
 	\end{itemize}
 	
 	\item Envoyer alerte
@@ -304,16 +304,13 @@ Dans le cadre de notre travail, le diagramme de cas d'utilisation revêt une imp
 		\item Précondition : Activer tracking
 		\item Scenario nominal :
 		\begin{enumerate}[label=\arabic*.]
-			\item L’utilisateur énonce une commande vocale
-			\item Le système vérifie la validité de la commande
+			\item Le système détecte un son correspondant au danger
 			\item Tant que le tracking est active, Le service de messagerie envoie une alerte aux contacts de l’utilisateur
 		\end{enumerate}
 		\item Scenario alternatif :
 		\begin{enumerate}[label=\arabic*.]
-			\item[1] .a. Le système détecte un son suspect
-			\item[1] .a.1. On passe au scenario 3
-			\item[1] .b. L'utilisateur appuie sur le button d'envois d'une alerte
-			\item[1] .b.1. On passe au scenario 3
+			\item[1] .a. L'utilisateur lance manuellement une alerte
+			\item[1] .a.1. On passe au scenario 2
 		\end{enumerate}
 		\item Scenario d’exception : 
 		\begin{enumerate}[label=\arabic*.]

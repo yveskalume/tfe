@@ -89,9 +89,6 @@ A.~Agrawal, A.~Maurya, A.~Patil, Student, and R.~Guide, ``Voice-controlled tool
 {DMITRY JEMEROV} and {SVETLANA ISAKOVA}, \emph{Kotlin in {Action}}.\hskip 1em
   plus 0.5em minus 0.4em\relax ed. MANNING.
 
-\bibitem{ml_2023}
-``{ML} for {Mobile} and {Edge} {Devices} - {TensorFlow} {Lite},'' Sep. 2023.
-
 \bibitem{yamnet}
 \BIBentryALTinterwordspacing
 ``Classification du son avec {YAMNet}.'' [Online]. Available:
@@ -116,6 +113,12 @@ A.~Agrawal, A.~Maurya, A.~Patil, Student, and R.~Guide, ``Voice-controlled tool
 \BIBentryALTinterwordspacing
 ``Services overview.'' [Online]. Available:
   \url{https://developer.android.com/guide/components/services}
+\BIBentrySTDinterwordspacing
+
+\bibitem{content_observer}
+\BIBentryALTinterwordspacing
+``Contentobserver.'' [Online]. Available:
+  \url{https://developer.android.com/reference/android/database/ContentObserver}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}

@@ -76,20 +76,19 @@
 \contentsline {section}{\numberline {3.2}Présentation de l'architecture physique}{42}{}%
 \contentsline {section}{\numberline {3.3}Technologies utilisées}{43}{}%
 \contentsline {subsection}{\numberline {3.3.1}Kotlin}{43}{}%
-\contentsline {subsection}{\numberline {3.3.2}TensorFlow lite}{43}{}%
-\contentsline {subsection}{\numberline {3.3.3}Mediapipe}{43}{}%
-\contentsline {subsection}{\numberline {3.3.4}YAMNet}{43}{}%
-\contentsline {subsection}{\numberline {3.3.5}Firebase}{44}{}%
-\contentsline {subsection}{\numberline {3.3.6}Angular}{44}{}%
+\contentsline {subsection}{\numberline {3.3.2}Mediapipe}{43}{}%
+\contentsline {subsection}{\numberline {3.3.3}YAMNet}{43}{}%
+\contentsline {subsection}{\numberline {3.3.4}Firebase}{44}{}%
+\contentsline {subsection}{\numberline {3.3.5}Angular}{44}{}%
 \contentsline {section}{\numberline {3.4}Diagramme de déploiement}{45}{}%
 \contentsline {section}{\numberline {3.5}Expérience utilisateur et fonctionnement}{45}{}%
 \contentsline {subsection}{\numberline {3.5.1}Expérience utilisateur}{45}{}%
 \contentsline {subsection}{\numberline {3.5.2}Fonctionnement}{46}{}%
-\contentsline {section}{\numberline {3.6}Captures d’écrans}{52}{}%
-\contentsline {subsection}{\numberline {3.6.1}Client mobile pour utilisateur}{52}{}%
-\contentsline {subsection}{\numberline {3.6.2}Client web pour administrateur}{61}{}%
-\contentsline {section}{\numberline {3.7}Difficultés rencontrées}{62}{}%
-\contentsline {section}{\numberline {3.8} Conclusion partielle}{63}{}%
-\contentsline {chapter}{CONCLUSION GÉNÉRALE}{64}{}%
-\contentsline {chapter}{BIBLIOGRAPHIE}{65}{}%
+\contentsline {section}{\numberline {3.6}Captures d’écrans}{51}{}%
+\contentsline {subsection}{\numberline {3.6.1}Client mobile pour utilisateur}{51}{}%
+\contentsline {subsection}{\numberline {3.6.2}Client web pour administrateur}{60}{}%
+\contentsline {section}{\numberline {3.7}Difficultés rencontrées}{61}{}%
+\contentsline {section}{\numberline {3.8} Conclusion partielle}{62}{}%
+\contentsline {chapter}{CONCLUSION GÉNÉRALE}{63}{}%
+\contentsline {chapter}{BIBLIOGRAPHIE}{64}{}%
 \contentsfinish 

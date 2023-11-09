@@ -54,8 +54,8 @@ La conception d’un système exige de connaître les besoins des utilisateurs c
 \subsection{Besoins fonctionnels}
 \begin{enumerate}
 	\item Les alertes seront envoyées par SMS aux contacts préenregistrés par l'utilisateur ainsi qu'à un tableau de bord géré par un administrateur
-	\item L’utilisateur doit s’authentifier avant d’accéder à l’application
-	\item L’administrateur doit s’authentifier avant d’accéder à l’espace d’administration
+	\item L’utilisateur doit s’authentifier en soumettant son identité avant d’accéder à l’application
+	\item L’administrateur doit s’authentifier avec un mot de passe avant d’accéder à l’espace d’administration
 	\item L’utilisateur peut ajouter des contacts qui recevront les alertes
 	\item L’utilisateur peut consulter la liste de ses contacts.
 	\item L’utilisateur peut modifier les contacts qu’il a ajoutés
@@ -305,7 +305,7 @@ Dans le cadre de notre travail, le diagramme de cas d'utilisation revêt une imp
 		\item Scenario nominal :
 		\begin{enumerate}[label=\arabic*.]
 			\item Le système détecte un son correspondant au danger
-			\item Tant que le tracking est active, Le service de messagerie envoie une alerte aux contacts de l’utilisateur
+			\item Tant que le tracking est active, le service de messagerie envoie des alertes
 		\end{enumerate}
 		\item Scenario alternatif :
 		\begin{enumerate}[label=\arabic*.]
